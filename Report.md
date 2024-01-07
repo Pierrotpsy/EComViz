@@ -1,38 +1,40 @@
-## **E-Commerce Analytics Dashboard Webapp - Report**
-***
-By Maxime Merlin
-***
+# E-Commerce Analytics Webapp Project Report
 
-### **Overview**
-The e-commerce analytics dashboard app is a tool designed to provide comprehensive insights into various facets of e-commerce operations. Its primary aim is to aid business stakeholders in making data-driven decisions through real-time analytics.
+## Objective
+The E-Commerce Analytics Webapp is designed to leverage MongoDB and Elasticsearch for efficient data storage, management, and advanced search capabilities in an e-commerce context.
 
-### **Key Functionalities**
-- **User Analytics:** 
-  - Visualization of user demographics, registration trends, and geographical distribution.
-- **Product Analytics:** 
-  - Insights into product catalog with details like price ranges and category distributions.
-- **Sales Analytics:** 
-  - Analysis of sales data over time, identifying trends, seasonal patterns, and product performance.
-- **Feedback Analysis:** 
-  - Aggregation and analysis of customer feedback to gauge satisfaction and product ratings.
-- **Search Functionality:** 
-  - Real-time searching across various datasets using Elasticsearch.
-- **Integrated Kibana Dashboard:** 
-  - Advanced data visualization and analytics capabilities provided by an embedded Kibana dashboard.
+## Key Components & Justification
 
-### **Technologies Used**
-- **Frontend:** HTML, CSS, JavaScript, Chart.js, DataTables.
-- **Backend:** Flask (Python), MongoDB.
-- **Data Indexing and Search:** Elasticsearch, Kibana.
+### MongoDB
+- **Usage**: MongoDB is utilized as the primary database for storing user, product, sales, and feedback data.
+- **Justification**: Its NoSQL nature allows for flexible data models and scalability, making it ideal for handling varied and evolving e-commerce data.
 
-### **Data Management**
-- Data ingestion and storage in MongoDB.
-- Data indexing for search and query efficiency using Elasticsearch.
-- Ensuring data integrity and consistency throughout the application.
+### Elasticsearch
+- **Usage**: Elasticsearch is integrated for advanced search functionality across the dataset.
+- **Justification**: It provides fast, real-time search capabilities and is particularly efficient in handling large volumes of data, essential for e-commerce platforms.
 
-### **User Interface Design**
-- Clean, intuitive, and responsive design.
-- Strategic use of visual elements like charts and tables for effective data presentation.
+### Flask Web Application
+- **Backend**: The application is developed using Flask, a Python web framework, facilitating easy integration with MongoDB and Elasticsearch.
+- **Endpoints**: Various endpoints (e.g., `/users`, `/products`, `/sales`, `/feedback`) render respective HTML templates and serve JSON data from MongoDB.
 
-### **Conclusion**
-This dashboard serves as a vital tool for e-commerce business analysis, combining data visualization, search functionality, and advanced analytics in a user-friendly interface. It's an invaluable resource for business analysts, marketers, and decision-makers.
+### Data Visualization & Analytics
+- **Kibana**: Integrated for creating dynamic, real-time data visualizations and dashboards.
+- **Templates**: HTML templates (`dashboard.html`, `feedback.html`, `products.html`, `sales.html`, `users.html`) include elements like tables and charts for displaying data.
+
+## Technical Stack
+- **Frontend**: HTML, CSS, JavaScript, and visualization libraries (Chart.js, DataTables).
+- **Backend**: Flask, MongoDB, Elasticsearch.
+- **Data Visualization**: Kibana for advanced analytics.
+
+## Data Management & Integration
+- **Data Generation**: `generate_data.py` script for generating fake data.
+- **MongoDB Setup**: Data is ingested into MongoDB collections (`users`, `products`, `sales`, `feedback`).
+- **Elasticsearch Integration**: Data from MongoDB is indexed in Elasticsearch for efficient searching.
+
+## Application Features
+- **Interactive Web Interface**: Users can view and interact with e-commerce data through various web pages.
+- **Data API Endpoints**: Flask routes (`/api/sales`, `/api/users`, `/api/feedback`, `/api/products`) provide JSON data for frontend consumption.
+- **Search Functionality**: A universal search feature, powered by Elasticsearch, allows for searching across different datasets.
+
+## Conclusion
+This project effectively demonstrates the use of MongoDB for NoSQL data management and Elasticsearch for advanced search capabilities in an e-commerce context. The integration with a Flask web application and Kibana dashboards makes it a comprehensive solution for e-commerce analytics.
