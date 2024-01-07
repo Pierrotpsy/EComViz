@@ -1,0 +1,3502 @@
+[
+    {
+        "product_id": "64e351f8-d1dd-47bb-b03e-8af743e41f0c",
+        "name": "As Camera",
+        "description": "This electronics product offers high-performance, compact, and innovative design.",
+        "price": 959.71,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "4d0a5455-793b-4eaf-8bfb-bd839f2a42a2",
+        "name": "Left Laptop",
+        "description": "This photography product offers high resolution, 4K video recording, and optical zoom.",
+        "price": 1427.14,
+        "category": "Photography"
+    },
+    {
+        "product_id": "874146b7-03d9-422a-8432-96ea4bac7ce3",
+        "name": "Before Headphones",
+        "description": "This photography product offers optical zoom, high resolution, and wide aperture.",
+        "price": 182.23,
+        "category": "Photography"
+    },
+    {
+        "product_id": "4bf4fe42-cd38-420b-9bd9-cab96be5cf84",
+        "name": "Pull Laptop",
+        "description": "This electronics product offers energy-efficient, innovative design, and compact.",
+        "price": 723.74,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "0c674608-c1bb-4471-9c93-a04224d04761",
+        "name": "Off Headphones",
+        "description": "This wearable tech product offers fitness tracking, touchscreen, and heart rate sensor.",
+        "price": 1452.61,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "ffcb6047-9aed-46a8-b1c2-f34cd74512df",
+        "name": "Despite Smartphone",
+        "description": "This wearable tech product offers sleep monitoring, water-resistant, and fitness tracking.",
+        "price": 754.38,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "6d51e487-423f-49d3-a9da-610effc8c8c1",
+        "name": "Yeah Smartphone",
+        "description": "This photography product offers image stabilization, high resolution, and wide aperture.",
+        "price": 365.93,
+        "category": "Photography"
+    },
+    {
+        "product_id": "6a4acd56-b4c9-4e70-b4c6-85714bc2e4b8",
+        "name": "Appear Camera",
+        "description": "This wearable tech product offers water-resistant, fitness tracking, and sleep monitoring.",
+        "price": 61.69,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "93bee4be-5185-452a-9338-34240fc65a2b",
+        "name": "Miss Laptop",
+        "description": "This electronics product offers innovative design, user-friendly, and high-performance.",
+        "price": 90.01,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "65b031bb-afc3-493c-9ee2-1109bcadcada",
+        "name": "Kitchen Camera",
+        "description": "This accessories product offers versatile, stylish, and durable.",
+        "price": 774.99,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "9ee9da4a-8768-46de-a8ed-fae733520d8e",
+        "name": "Size Camera",
+        "description": "This accessories product offers stylish, versatile, and lightweight.",
+        "price": 751.75,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "398b90a3-f309-46d2-a9d5-db4382974ad3",
+        "name": "Bit Headphones",
+        "description": "This home appliances product offers easy to use, modern design, and smart technology.",
+        "price": 87.83,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "0c2a88f0-d18b-4387-ae85-581d77861525",
+        "name": "Pressure Camera",
+        "description": "This electronics product offers high-performance, energy-efficient, and user-friendly.",
+        "price": 1402.93,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "c039f85e-66a5-4fc4-becb-4cf28f6c4904",
+        "name": "Civil Laptop",
+        "description": "This electronics product offers high-performance, compact, and user-friendly.",
+        "price": 109.5,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "5718297a-fbad-4bb7-9eda-dabd66f67d00",
+        "name": "Career Headphones",
+        "description": "This photography product offers wide aperture, image stabilization, and high resolution.",
+        "price": 241.68,
+        "category": "Photography"
+    },
+    {
+        "product_id": "0284c53a-076c-4339-9903-747632270cb1",
+        "name": "Return Camera",
+        "description": "This wearable tech product offers sleep monitoring, touchscreen, and water-resistant.",
+        "price": 674.89,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "4974b1be-0de2-42a4-a57d-a59072c46c0e",
+        "name": "Government Camera",
+        "description": "This wearable tech product offers sleep monitoring, fitness tracking, and water-resistant.",
+        "price": 577.23,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "2ac33cc6-8ffe-4190-baac-47c70a18eac4",
+        "name": "Tell Laptop",
+        "description": "This electronics product offers energy-efficient, high-performance, and compact.",
+        "price": 727.47,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "2d30aa4c-dc8d-446f-a5f2-c2eff2b4245e",
+        "name": "Son Headphones",
+        "description": "This photography product offers high resolution, optical zoom, and 4K video recording.",
+        "price": 150.98,
+        "category": "Photography"
+    },
+    {
+        "product_id": "869cbc31-6741-4278-8e6f-42030451a060",
+        "name": "No Smartphone",
+        "description": "This wearable tech product offers water-resistant, heart rate sensor, and sleep monitoring.",
+        "price": 634.61,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "3c7f0522-486b-44f8-a102-dab9c35eb4d7",
+        "name": "Dream Headphones",
+        "description": "This home appliances product offers energy-saving, low noise, and smart technology.",
+        "price": 539.08,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4e383f6b-d6a8-4829-8556-d006f3e80ec0",
+        "name": "Radio Laptop",
+        "description": "This electronics product offers user-friendly, high-performance, and compact.",
+        "price": 1303.78,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "b8a38efb-82b8-417a-aa9e-fe98a0024434",
+        "name": "Activity Laptop",
+        "description": "This accessories product offers durable, lightweight, and versatile.",
+        "price": 1051.57,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "fb90c940-d37a-4db2-af3c-ecc7c448e3b0",
+        "name": "Generation Camera",
+        "description": "This wearable tech product offers fitness tracking, heart rate sensor, and touchscreen.",
+        "price": 595.02,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "e2ad7b10-aa05-4b34-aa30-a2e1e7eee1f2",
+        "name": "Far Laptop",
+        "description": "This wearable tech product offers water-resistant, touchscreen, and heart rate sensor.",
+        "price": 1217.17,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "df3e869c-b997-463a-9772-07faafa1c6ce",
+        "name": "Adult Headphones",
+        "description": "This home appliances product offers modern design, smart technology, and easy to use.",
+        "price": 149.31,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4e7edfec-be96-448f-9503-d82ddd9bb372",
+        "name": "Night Headphones",
+        "description": "This home appliances product offers easy to use, energy-saving, and modern design.",
+        "price": 1499.5,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "107024cd-37dd-408b-9240-06617c540fac",
+        "name": "Offer Smartphone",
+        "description": "This electronics product offers user-friendly, compact, and high-performance.",
+        "price": 1260.58,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "7ecc6bb7-a49d-4a25-8184-01fc162a8076",
+        "name": "School Watch",
+        "description": "This wearable tech product offers touchscreen, sleep monitoring, and fitness tracking.",
+        "price": 276.68,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "572a0a40-6213-41b0-98f5-682bb021e149",
+        "name": "Always Camera",
+        "description": "This wearable tech product offers sleep monitoring, touchscreen, and fitness tracking.",
+        "price": 619.18,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "24eff736-f93d-4b8b-960a-1f642aba8b4a",
+        "name": "Among Camera",
+        "description": "This electronics product offers compact, high-performance, and innovative design.",
+        "price": 620.38,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "5944f03c-cd7c-4ab1-b509-a4f6d877a18c",
+        "name": "Specific Laptop",
+        "description": "This photography product offers 4K video recording, high resolution, and wide aperture.",
+        "price": 1467.12,
+        "category": "Photography"
+    },
+    {
+        "product_id": "55674f07-1962-4751-a267-b773356f39be",
+        "name": "Bill Smartphone",
+        "description": "This photography product offers optical zoom, wide aperture, and high resolution.",
+        "price": 1250.76,
+        "category": "Photography"
+    },
+    {
+        "product_id": "d3e333da-be57-4bea-a06e-8a3a14d5c77a",
+        "name": "Safe Smartphone",
+        "description": "This electronics product offers high-performance, energy-efficient, and user-friendly.",
+        "price": 160.13,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "25ea0768-4d32-4242-ae4e-13ffcc2b8e78",
+        "name": "Cold Smartphone",
+        "description": "This electronics product offers compact, high-performance, and user-friendly.",
+        "price": 1327.58,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "d6668c42-a4f2-43df-b78c-f17acaa5e6c6",
+        "name": "Television Headphones",
+        "description": "This home appliances product offers easy to use, energy-saving, and modern design.",
+        "price": 648.78,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "9bba9afa-e1b5-465f-85b1-bba80df6c209",
+        "name": "Product Laptop",
+        "description": "This photography product offers 4K video recording, wide aperture, and high resolution.",
+        "price": 206.91,
+        "category": "Photography"
+    },
+    {
+        "product_id": "4d6cbdf6-8d57-4881-ba2e-a784de56f3c4",
+        "name": "Occur Laptop",
+        "description": "This wearable tech product offers fitness tracking, touchscreen, and heart rate sensor.",
+        "price": 440.11,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "fa0d5bb6-d327-41ad-8a38-797defe8ae32",
+        "name": "Deal Camera",
+        "description": "This photography product offers optical zoom, high resolution, and image stabilization.",
+        "price": 934.2,
+        "category": "Photography"
+    },
+    {
+        "product_id": "c5747e4e-0869-4a60-816e-f49711ed313c",
+        "name": "Which Watch",
+        "description": "This home appliances product offers smart technology, energy-saving, and easy to use.",
+        "price": 973.71,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "71780bfd-da76-46c0-9ec4-1581b88e53b1",
+        "name": "Speech Headphones",
+        "description": "This electronics product offers high-performance, energy-efficient, and user-friendly.",
+        "price": 225.27,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "69e6085e-aa8f-48f1-8f31-6cd8b65721f4",
+        "name": "Actually Watch",
+        "description": "This accessories product offers durable, versatile, and stylish.",
+        "price": 565.11,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "0f665aa2-b174-4496-84b6-892d16d234ae",
+        "name": "Member Watch",
+        "description": "This electronics product offers energy-efficient, high-performance, and compact.",
+        "price": 756.9,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "e6c91a4e-f4d1-4496-8900-824b244bd807",
+        "name": "Society Smartphone",
+        "description": "This photography product offers optical zoom, high resolution, and wide aperture.",
+        "price": 575.67,
+        "category": "Photography"
+    },
+    {
+        "product_id": "cd279424-ea50-4c05-aac1-ab19c5c5194d",
+        "name": "Thing Headphones",
+        "description": "This electronics product offers energy-efficient, user-friendly, and high-performance.",
+        "price": 108.42,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "8a73e849-f04a-4724-a911-34001bf7c5f6",
+        "name": "Trouble Laptop",
+        "description": "This electronics product offers compact, energy-efficient, and user-friendly.",
+        "price": 76.47,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "63cf6d08-86e3-4351-b552-efe65e12d1e6",
+        "name": "Group Smartphone",
+        "description": "This wearable tech product offers water-resistant, touchscreen, and sleep monitoring.",
+        "price": 518.99,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "c84b3a8c-c9db-4843-bcbc-e203eaa812ce",
+        "name": "Fall Headphones",
+        "description": "This electronics product offers compact, energy-efficient, and innovative design.",
+        "price": 1039.01,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "804ce149-addf-4619-889b-76a1397c36c3",
+        "name": "Spend Smartphone",
+        "description": "This wearable tech product offers heart rate sensor, water-resistant, and sleep monitoring.",
+        "price": 818.07,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "012b39dd-a97e-433c-95a6-60d3f495ed82",
+        "name": "Situation Headphones",
+        "description": "This photography product offers image stabilization, high resolution, and wide aperture.",
+        "price": 1070.01,
+        "category": "Photography"
+    },
+    {
+        "product_id": "44d22abb-bfb7-4b3e-9b9f-8fd9fd8b747c",
+        "name": "Consumer Watch",
+        "description": "This home appliances product offers smart technology, low noise, and energy-saving.",
+        "price": 819.23,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "9d9768ea-8823-4fc4-8fe2-27abb0fa17d8",
+        "name": "Effect Laptop",
+        "description": "This accessories product offers stylish, versatile, and premium quality.",
+        "price": 1136.01,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "2d6d3e6f-b2d6-4932-838a-ffb6615fae51",
+        "name": "Second Camera",
+        "description": "This wearable tech product offers heart rate sensor, sleep monitoring, and fitness tracking.",
+        "price": 1313.38,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "cc51b60a-d011-4386-9c55-2cb8a079e697",
+        "name": "Step Camera",
+        "description": "This accessories product offers versatile, premium quality, and stylish.",
+        "price": 847.33,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "20cf73a1-fea8-4093-b533-ddd4d5b24a74",
+        "name": "Mr Smartphone",
+        "description": "This photography product offers high resolution, optical zoom, and wide aperture.",
+        "price": 519.25,
+        "category": "Photography"
+    },
+    {
+        "product_id": "663af43e-0d3f-47ff-b094-d9569ded6b46",
+        "name": "Only Camera",
+        "description": "This photography product offers optical zoom, wide aperture, and image stabilization.",
+        "price": 1293.08,
+        "category": "Photography"
+    },
+    {
+        "product_id": "6389432a-3f02-4b95-9d1a-571f801dd0fa",
+        "name": "Large Laptop",
+        "description": "This photography product offers 4K video recording, image stabilization, and wide aperture.",
+        "price": 254.7,
+        "category": "Photography"
+    },
+    {
+        "product_id": "bd2f1c3f-529d-44b4-8287-5f4442516d07",
+        "name": "Training Laptop",
+        "description": "This wearable tech product offers touchscreen, sleep monitoring, and heart rate sensor.",
+        "price": 250.77,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "538106e0-4294-40cd-b9c0-9ab5465c9e7e",
+        "name": "Federal Smartphone",
+        "description": "This wearable tech product offers fitness tracking, sleep monitoring, and touchscreen.",
+        "price": 57.24,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "a2e3206c-8ed0-4ae7-971b-6a0fa3c71fad",
+        "name": "Likely Headphones",
+        "description": "This wearable tech product offers water-resistant, heart rate sensor, and fitness tracking.",
+        "price": 576.67,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "68cf98e0-a6ef-45b8-9b8f-d72ed8eca89a",
+        "name": "Mean Camera",
+        "description": "This home appliances product offers energy-saving, low noise, and easy to use.",
+        "price": 1064.95,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4aa23625-9403-44be-a54a-ac84980b6b3a",
+        "name": "Unit Camera",
+        "description": "This wearable tech product offers heart rate sensor, touchscreen, and sleep monitoring.",
+        "price": 1282.94,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "c8a9c125-5a55-4e97-87f3-552872f466a6",
+        "name": "Investment Watch",
+        "description": "This home appliances product offers low noise, smart technology, and modern design.",
+        "price": 433.39,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "317a88ad-23ff-45d4-ae6c-562c083d3930",
+        "name": "Kind Camera",
+        "description": "This home appliances product offers modern design, low noise, and easy to use.",
+        "price": 183.9,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "8dd25c8d-8a6d-46c4-8b6e-cecbdb613359",
+        "name": "Kind Laptop",
+        "description": "This home appliances product offers energy-saving, modern design, and easy to use.",
+        "price": 826.36,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "5132c801-3c62-4950-b741-153ede916fe2",
+        "name": "Trip Headphones",
+        "description": "This wearable tech product offers water-resistant, fitness tracking, and sleep monitoring.",
+        "price": 450.56,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "6d489262-81f0-4099-8ac4-48619ac7cb8d",
+        "name": "Vote Headphones",
+        "description": "This accessories product offers stylish, premium quality, and lightweight.",
+        "price": 788.45,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "2fbeabe2-a60e-4ed6-a692-47a409395aa9",
+        "name": "Laugh Laptop",
+        "description": "This electronics product offers high-performance, energy-efficient, and compact.",
+        "price": 404.81,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "ccaf8b64-17f4-45d8-bd42-b5a093a86823",
+        "name": "Fear Camera",
+        "description": "This accessories product offers durable, versatile, and premium quality.",
+        "price": 551.08,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "02e47907-dde2-426d-955a-499bd73ad732",
+        "name": "Southern Headphones",
+        "description": "This accessories product offers durable, premium quality, and stylish.",
+        "price": 587.61,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "4065f325-b3dc-4ddf-9848-f1c7fc65cc21",
+        "name": "Tell Camera",
+        "description": "This wearable tech product offers heart rate sensor, fitness tracking, and sleep monitoring.",
+        "price": 604.03,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "aca3ce71-98c0-436a-8075-d4f0075e0392",
+        "name": "Special Smartphone",
+        "description": "This accessories product offers premium quality, versatile, and durable.",
+        "price": 459.99,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "2bb3cd5b-261f-4269-bce2-1bb1d4a4eef9",
+        "name": "Two Laptop",
+        "description": "This photography product offers image stabilization, optical zoom, and wide aperture.",
+        "price": 910.72,
+        "category": "Photography"
+    },
+    {
+        "product_id": "2cb5c25f-d873-43cb-a823-122667841a0f",
+        "name": "Like Smartphone",
+        "description": "This home appliances product offers smart technology, modern design, and low noise.",
+        "price": 1119.9,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "64941076-ef59-4396-a6b2-29332606c57c",
+        "name": "Owner Watch",
+        "description": "This accessories product offers stylish, versatile, and lightweight.",
+        "price": 541.02,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "2dc139b7-9687-464a-8c96-abfa3a1c8d6d",
+        "name": "Together Camera",
+        "description": "This photography product offers 4K video recording, optical zoom, and high resolution.",
+        "price": 588.14,
+        "category": "Photography"
+    },
+    {
+        "product_id": "9782fe17-41ac-4438-b34b-b879fd404fc5",
+        "name": "Who Headphones",
+        "description": "This electronics product offers user-friendly, energy-efficient, and innovative design.",
+        "price": 1096.77,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "811baab6-430a-4f5a-84ee-59baeec46cde",
+        "name": "Wide Watch",
+        "description": "This home appliances product offers easy to use, low noise, and energy-saving.",
+        "price": 570.37,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "bbb8134d-2a63-4a91-85d5-06349a2e3782",
+        "name": "Financial Laptop",
+        "description": "This home appliances product offers smart technology, easy to use, and modern design.",
+        "price": 1395.45,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4d6eaa14-7375-4b6c-a9e1-c95bdb7d770f",
+        "name": "Present Watch",
+        "description": "This home appliances product offers smart technology, modern design, and energy-saving.",
+        "price": 1366.46,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "fdce8037-e863-4e45-83f5-f0ad6e0b0d43",
+        "name": "Artist Watch",
+        "description": "This photography product offers image stabilization, wide aperture, and 4K video recording.",
+        "price": 1058.19,
+        "category": "Photography"
+    },
+    {
+        "product_id": "a7e9dc08-b695-485e-bcc5-2f9424457c62",
+        "name": "Design Smartphone",
+        "description": "This photography product offers wide aperture, high resolution, and image stabilization.",
+        "price": 1448.4,
+        "category": "Photography"
+    },
+    {
+        "product_id": "409da07f-3dc3-4b31-8eb1-68a71f4b66d7",
+        "name": "Need Headphones",
+        "description": "This electronics product offers innovative design, compact, and high-performance.",
+        "price": 632.11,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "09e87066-cac0-492a-8de7-5eb7020d429e",
+        "name": "Data Camera",
+        "description": "This accessories product offers durable, lightweight, and stylish.",
+        "price": 239.39,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "8dc4f25a-6507-4b79-9f65-2dbf9cb026cb",
+        "name": "Institution Laptop",
+        "description": "This accessories product offers lightweight, stylish, and premium quality.",
+        "price": 822.09,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "66c7ac16-43e1-4a00-816d-39c1d4f7047a",
+        "name": "Report Camera",
+        "description": "This wearable tech product offers water-resistant, heart rate sensor, and touchscreen.",
+        "price": 1056.81,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "c423afea-cfea-4e47-b95d-81ec15c4577e",
+        "name": "Citizen Headphones",
+        "description": "This photography product offers wide aperture, optical zoom, and image stabilization.",
+        "price": 665.43,
+        "category": "Photography"
+    },
+    {
+        "product_id": "1397b6dc-3d01-4398-8662-42eb5abb44ba",
+        "name": "Community Smartphone",
+        "description": "This home appliances product offers easy to use, energy-saving, and modern design.",
+        "price": 211.16,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "c0b7e80d-65ea-4be2-9bae-9e8a280a2896",
+        "name": "Analysis Watch",
+        "description": "This home appliances product offers smart technology, energy-saving, and easy to use.",
+        "price": 1491.24,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "33816914-66d4-43cf-ae83-66f784e52da4",
+        "name": "Threat Camera",
+        "description": "This home appliances product offers smart technology, easy to use, and low noise.",
+        "price": 1137.19,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "55c3c2b8-a9b0-40cc-8155-3097a1d944e3",
+        "name": "Behavior Laptop",
+        "description": "This home appliances product offers easy to use, low noise, and energy-saving.",
+        "price": 709.26,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4c329d99-5333-439a-ac84-b5d84e8dd90f",
+        "name": "Mind Watch",
+        "description": "This electronics product offers energy-efficient, compact, and innovative design.",
+        "price": 1438.0,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "2fe365a0-73f3-4202-a1c0-8242950d3414",
+        "name": "Interview Laptop",
+        "description": "This accessories product offers stylish, versatile, and lightweight.",
+        "price": 73.11,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "8e3f1df7-5311-497b-ad13-92b06a0b6040",
+        "name": "Weight Headphones",
+        "description": "This wearable tech product offers water-resistant, sleep monitoring, and heart rate sensor.",
+        "price": 943.13,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "1959dc5c-b753-4b52-abc6-001f5e1981ef",
+        "name": "All Camera",
+        "description": "This electronics product offers user-friendly, energy-efficient, and innovative design.",
+        "price": 415.83,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "be84e44d-333f-433b-99b6-ead63108b798",
+        "name": "Run Smartphone",
+        "description": "This accessories product offers premium quality, stylish, and lightweight.",
+        "price": 444.61,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "02249627-e48a-4207-8fce-35763f5be033",
+        "name": "Billion Watch",
+        "description": "This home appliances product offers modern design, smart technology, and low noise.",
+        "price": 648.57,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4ac0f296-05cf-41b1-9c1a-de6dea82fb01",
+        "name": "Discuss Headphones",
+        "description": "This home appliances product offers easy to use, smart technology, and modern design.",
+        "price": 1085.37,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "95ca06e0-f149-4d46-bbac-5dc02f4024e9",
+        "name": "Program Smartphone",
+        "description": "This electronics product offers compact, high-performance, and user-friendly.",
+        "price": 595.85,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "8b70b77a-6212-455a-826e-7fe069f7e1d6",
+        "name": "Place Camera",
+        "description": "This wearable tech product offers water-resistant, touchscreen, and fitness tracking.",
+        "price": 1439.13,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "bc023c1e-1238-45c9-80be-b283e07737b7",
+        "name": "Technology Camera",
+        "description": "This wearable tech product offers fitness tracking, heart rate sensor, and sleep monitoring.",
+        "price": 308.49,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "f37d906d-4755-4481-aa04-5992eb0fd05e",
+        "name": "Knowledge Camera",
+        "description": "This wearable tech product offers water-resistant, fitness tracking, and touchscreen.",
+        "price": 1281.18,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "667eec87-9796-4c00-8f40-ac17724ebf31",
+        "name": "Think Laptop",
+        "description": "This electronics product offers innovative design, compact, and high-performance.",
+        "price": 524.82,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "d48934e9-70fe-4b1e-9afa-fa6adadbe890",
+        "name": "Quite Smartphone",
+        "description": "This home appliances product offers smart technology, low noise, and modern design.",
+        "price": 1471.48,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "49cd0e65-c298-4162-9d1c-00e4b6c96ffa",
+        "name": "Source Laptop",
+        "description": "This electronics product offers compact, high-performance, and energy-efficient.",
+        "price": 1006.98,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "aa4da553-4cda-44f4-bf43-b24331bf3830",
+        "name": "Ground Camera",
+        "description": "This wearable tech product offers heart rate sensor, water-resistant, and touchscreen.",
+        "price": 651.14,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "fd9eb3d6-e862-4ff4-8737-8b18f63b3e45",
+        "name": "Affect Smartphone",
+        "description": "This accessories product offers premium quality, versatile, and lightweight.",
+        "price": 79.64,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "ce10bd7c-e474-4c1e-8012-8a08332bc2ad",
+        "name": "Sense Camera",
+        "description": "This home appliances product offers energy-saving, modern design, and easy to use.",
+        "price": 1407.62,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "508e12f6-4aeb-4d0f-986d-4fd2bed49912",
+        "name": "Why Smartphone",
+        "description": "This wearable tech product offers fitness tracking, touchscreen, and water-resistant.",
+        "price": 299.14,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "3bacb662-bdd8-4379-bc2c-8ab39e2b72f7",
+        "name": "Car Smartphone",
+        "description": "This wearable tech product offers heart rate sensor, sleep monitoring, and touchscreen.",
+        "price": 561.26,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "4c2e304c-4c63-44a6-8371-5af94ffa24e8",
+        "name": "Huge Headphones",
+        "description": "This electronics product offers innovative design, high-performance, and compact.",
+        "price": 1196.44,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "7cff55c8-da2f-4683-a3f6-f001dbe1918a",
+        "name": "True Watch",
+        "description": "This home appliances product offers energy-saving, modern design, and low noise.",
+        "price": 713.93,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "3e7d475d-ef06-4389-afee-37ac231b1d97",
+        "name": "Guy Camera",
+        "description": "This electronics product offers high-performance, compact, and energy-efficient.",
+        "price": 1224.48,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "0d51b460-4600-4d7f-9c3c-4be4da82b60b",
+        "name": "Technology Watch",
+        "description": "This accessories product offers durable, stylish, and premium quality.",
+        "price": 164.66,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "0fca77d2-f81d-419f-acb4-794e21baede9",
+        "name": "Food Watch",
+        "description": "This electronics product offers innovative design, user-friendly, and high-performance.",
+        "price": 1416.67,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "4030b6d4-24a4-4fa5-998d-79f623a40525",
+        "name": "Stage Camera",
+        "description": "This photography product offers optical zoom, wide aperture, and 4K video recording.",
+        "price": 648.86,
+        "category": "Photography"
+    },
+    {
+        "product_id": "792df902-0760-4e13-93fe-46082439b9d7",
+        "name": "Likely Watch",
+        "description": "This wearable tech product offers water-resistant, sleep monitoring, and fitness tracking.",
+        "price": 733.68,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "1f09b6a2-e18b-45c8-80a1-d460f31a055f",
+        "name": "Key Smartphone",
+        "description": "This home appliances product offers modern design, easy to use, and energy-saving.",
+        "price": 50.14,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "85cda4dd-e690-461f-9d4a-0d6e1b51ee58",
+        "name": "Just Camera",
+        "description": "This home appliances product offers easy to use, energy-saving, and low noise.",
+        "price": 94.73,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "7b769f31-332e-4895-b5a9-d15e0387a1ea",
+        "name": "Nature Watch",
+        "description": "This wearable tech product offers heart rate sensor, sleep monitoring, and touchscreen.",
+        "price": 791.29,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "7a7714d9-531f-4b12-9730-fcf4e8afa289",
+        "name": "Line Camera",
+        "description": "This electronics product offers innovative design, user-friendly, and high-performance.",
+        "price": 164.41,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "6d60d5e0-2cee-4d9c-8a50-e89e0816f226",
+        "name": "Day Laptop",
+        "description": "This home appliances product offers easy to use, modern design, and smart technology.",
+        "price": 1166.2,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4536dbed-c756-4a10-b251-26f6fa03b9ad",
+        "name": "Force Camera",
+        "description": "This home appliances product offers smart technology, energy-saving, and modern design.",
+        "price": 195.18,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "cfdc25b7-bbf6-4724-95b3-8bcf4b7d889f",
+        "name": "Catch Camera",
+        "description": "This accessories product offers premium quality, lightweight, and versatile.",
+        "price": 1048.38,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "78ad9c21-17a2-4cde-a274-299f766d7a82",
+        "name": "Well Headphones",
+        "description": "This electronics product offers high-performance, innovative design, and compact.",
+        "price": 73.3,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "6f2a6898-d62e-4b7a-a2c4-5e37f36bef21",
+        "name": "Direction Camera",
+        "description": "This wearable tech product offers water-resistant, fitness tracking, and sleep monitoring.",
+        "price": 465.24,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "5d24dd9f-7684-44bc-9ebc-f2ef3d95526c",
+        "name": "Of Camera",
+        "description": "This wearable tech product offers touchscreen, sleep monitoring, and heart rate sensor.",
+        "price": 141.29,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "321c2c13-3f41-427e-bf0b-97d43c3e6d03",
+        "name": "Popular Smartphone",
+        "description": "This electronics product offers high-performance, user-friendly, and energy-efficient.",
+        "price": 338.71,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "ec589010-5fb2-4f77-b7e7-ea6be36d4fa0",
+        "name": "Open Watch",
+        "description": "This photography product offers optical zoom, wide aperture, and high resolution.",
+        "price": 1021.37,
+        "category": "Photography"
+    },
+    {
+        "product_id": "0a5ae3c8-d537-4db1-9282-998e94f42bc9",
+        "name": "Increase Camera",
+        "description": "This wearable tech product offers water-resistant, sleep monitoring, and touchscreen.",
+        "price": 403.67,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "ffd2d923-869b-4315-bcc8-72927004e175",
+        "name": "Trouble Camera",
+        "description": "This photography product offers wide aperture, optical zoom, and high resolution.",
+        "price": 690.89,
+        "category": "Photography"
+    },
+    {
+        "product_id": "04b112ea-3d7a-4704-b4f9-88678d5f3d30",
+        "name": "When Camera",
+        "description": "This photography product offers high resolution, wide aperture, and image stabilization.",
+        "price": 920.04,
+        "category": "Photography"
+    },
+    {
+        "product_id": "eadd2636-a800-41a9-ac86-f973f4ae6a13",
+        "name": "However Laptop",
+        "description": "This home appliances product offers low noise, modern design, and smart technology.",
+        "price": 312.62,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "1c4d5e57-742a-4188-848e-5da0b85aa4e4",
+        "name": "Generation Smartphone",
+        "description": "This home appliances product offers smart technology, easy to use, and modern design.",
+        "price": 430.22,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "58820e26-c5bb-4e5d-aa6e-107dd9d78523",
+        "name": "Defense Camera",
+        "description": "This wearable tech product offers heart rate sensor, sleep monitoring, and touchscreen.",
+        "price": 523.05,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "f2bbde04-70ef-40e5-ba85-140ae1e448ad",
+        "name": "Help Laptop",
+        "description": "This photography product offers image stabilization, high resolution, and optical zoom.",
+        "price": 813.66,
+        "category": "Photography"
+    },
+    {
+        "product_id": "1ef3a986-7b2b-4281-9447-a295c6f911a0",
+        "name": "Participant Laptop",
+        "description": "This home appliances product offers smart technology, energy-saving, and modern design.",
+        "price": 700.75,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "feb2bba3-1a40-4e6f-a275-97ce82c17ed8",
+        "name": "Wall Laptop",
+        "description": "This electronics product offers energy-efficient, compact, and user-friendly.",
+        "price": 350.14,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "97a0978c-092f-40de-9aa0-8c02e9c0bf1c",
+        "name": "Order Headphones",
+        "description": "This photography product offers wide aperture, 4K video recording, and high resolution.",
+        "price": 803.88,
+        "category": "Photography"
+    },
+    {
+        "product_id": "c4d90bea-a9f8-4b87-88d0-2ed79cffd8a7",
+        "name": "Front Watch",
+        "description": "This home appliances product offers modern design, energy-saving, and easy to use.",
+        "price": 1082.93,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "926d5e9f-ce9e-4d09-a0db-18f55c6c992f",
+        "name": "Movie Headphones",
+        "description": "This home appliances product offers energy-saving, modern design, and easy to use.",
+        "price": 321.54,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "1b8f55bd-5b0a-44e5-b6fd-58c8aa75e58f",
+        "name": "Woman Laptop",
+        "description": "This accessories product offers durable, premium quality, and stylish.",
+        "price": 508.02,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "d62610c0-4252-4841-abcb-78a8e6a2c043",
+        "name": "Charge Camera",
+        "description": "This photography product offers optical zoom, wide aperture, and high resolution.",
+        "price": 571.89,
+        "category": "Photography"
+    },
+    {
+        "product_id": "467c0916-dd5a-438d-9cc9-07840ebd4bcf",
+        "name": "Alone Smartphone",
+        "description": "This electronics product offers compact, innovative design, and high-performance.",
+        "price": 624.54,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "326ef898-915f-4125-bbaa-a834f1593e3a",
+        "name": "Finally Camera",
+        "description": "This wearable tech product offers sleep monitoring, heart rate sensor, and touchscreen.",
+        "price": 738.25,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "f1380751-cb03-4f8d-9046-746e4c1e6bd0",
+        "name": "Him Headphones",
+        "description": "This accessories product offers stylish, premium quality, and lightweight.",
+        "price": 967.73,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "f7830e49-8311-4da7-be74-0bbd2091af9e",
+        "name": "List Watch",
+        "description": "This photography product offers 4K video recording, wide aperture, and high resolution.",
+        "price": 995.1,
+        "category": "Photography"
+    },
+    {
+        "product_id": "f0f43781-f62e-483e-aabc-56baca337a22",
+        "name": "Type Laptop",
+        "description": "This photography product offers wide aperture, 4K video recording, and image stabilization.",
+        "price": 552.45,
+        "category": "Photography"
+    },
+    {
+        "product_id": "abfd8158-ac91-4c95-82b5-5b3cdd10779b",
+        "name": "Once Watch",
+        "description": "This accessories product offers premium quality, durable, and versatile.",
+        "price": 1221.88,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "f3a990e9-e48e-4bcc-a3ad-f3f712c076f5",
+        "name": "Culture Smartphone",
+        "description": "This accessories product offers premium quality, versatile, and lightweight.",
+        "price": 495.77,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "77bc765b-40c2-4045-bb0d-583128dc54a2",
+        "name": "Job Camera",
+        "description": "This home appliances product offers modern design, low noise, and easy to use.",
+        "price": 234.27,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "c8fa6679-4c05-4467-a792-cfc037896be4",
+        "name": "Dinner Camera",
+        "description": "This wearable tech product offers fitness tracking, touchscreen, and water-resistant.",
+        "price": 354.21,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "030a164e-90e5-4e4d-870c-31f32f2213d0",
+        "name": "Respond Watch",
+        "description": "This wearable tech product offers fitness tracking, sleep monitoring, and heart rate sensor.",
+        "price": 1102.87,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "596788ee-732b-4f1c-92d0-426c07d5eb9b",
+        "name": "Without Watch",
+        "description": "This wearable tech product offers water-resistant, heart rate sensor, and touchscreen.",
+        "price": 146.72,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "29fa0a2d-36a0-4280-af00-2791cc8cd16b",
+        "name": "Very Smartphone",
+        "description": "This home appliances product offers energy-saving, low noise, and easy to use.",
+        "price": 80.44,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "449a5175-22e8-4f0c-90df-96b92baf7fd7",
+        "name": "Ahead Watch",
+        "description": "This wearable tech product offers fitness tracking, water-resistant, and touchscreen.",
+        "price": 261.01,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "8a40209f-68ed-4095-99bf-7becfef4a5ad",
+        "name": "Herself Headphones",
+        "description": "This wearable tech product offers fitness tracking, water-resistant, and sleep monitoring.",
+        "price": 816.6,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "5f0f58a1-8dea-42d6-91b3-93f887193e74",
+        "name": "A Headphones",
+        "description": "This wearable tech product offers heart rate sensor, fitness tracking, and touchscreen.",
+        "price": 782.51,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "624162de-aa39-4ab8-8ed4-e1c70efdb235",
+        "name": "Your Smartphone",
+        "description": "This accessories product offers durable, lightweight, and versatile.",
+        "price": 396.9,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "2168c98c-3197-4f79-b198-bf8d9a13ba57",
+        "name": "Former Laptop",
+        "description": "This photography product offers image stabilization, 4K video recording, and wide aperture.",
+        "price": 1292.24,
+        "category": "Photography"
+    },
+    {
+        "product_id": "fc4b13f3-fab2-4bd6-88a5-d5afa0b7d89d",
+        "name": "Particularly Camera",
+        "description": "This electronics product offers compact, user-friendly, and high-performance.",
+        "price": 277.14,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "bc3dc1d4-ff00-45eb-b026-782023c1d55d",
+        "name": "Professional Camera",
+        "description": "This electronics product offers compact, energy-efficient, and innovative design.",
+        "price": 1255.5,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "232194f4-5f13-4ff5-b653-5bf726a653aa",
+        "name": "Front Headphones",
+        "description": "This accessories product offers stylish, durable, and premium quality.",
+        "price": 804.82,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "51ea4e16-a839-4e6b-89e9-4097f76ce23c",
+        "name": "Make Camera",
+        "description": "This accessories product offers lightweight, versatile, and durable.",
+        "price": 669.81,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "f612d46f-f004-410a-b8a5-bf8d0058eac3",
+        "name": "Instead Headphones",
+        "description": "This electronics product offers high-performance, user-friendly, and compact.",
+        "price": 627.38,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "9cb25812-19ce-42f5-8190-2316b24daf93",
+        "name": "Even Smartphone",
+        "description": "This electronics product offers energy-efficient, user-friendly, and innovative design.",
+        "price": 1041.42,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "09e27288-6608-4f1e-879e-87d2d62b07f0",
+        "name": "Hit Camera",
+        "description": "This home appliances product offers smart technology, energy-saving, and modern design.",
+        "price": 621.22,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "854b7734-5008-48e0-a98a-c5ffde6d31a1",
+        "name": "Reach Smartphone",
+        "description": "This wearable tech product offers sleep monitoring, fitness tracking, and heart rate sensor.",
+        "price": 870.28,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "cd046a5d-63b6-49f4-b179-182cce6b3c67",
+        "name": "Radio Headphones",
+        "description": "This wearable tech product offers water-resistant, touchscreen, and heart rate sensor.",
+        "price": 348.01,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "e9aab7ef-48ba-48d5-bd06-8163868b57e9",
+        "name": "Large Camera",
+        "description": "This photography product offers image stabilization, optical zoom, and high resolution.",
+        "price": 1265.94,
+        "category": "Photography"
+    },
+    {
+        "product_id": "ecc1b6ab-8769-4989-866f-8e4d45c3bf8a",
+        "name": "Fine Headphones",
+        "description": "This wearable tech product offers fitness tracking, touchscreen, and water-resistant.",
+        "price": 488.9,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "a98426ab-0837-452c-b882-f7aff553cb70",
+        "name": "None Smartphone",
+        "description": "This wearable tech product offers fitness tracking, heart rate sensor, and sleep monitoring.",
+        "price": 292.71,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "9e57534c-eb15-4c6f-91cd-f01c75dfae49",
+        "name": "Arm Smartphone",
+        "description": "This accessories product offers premium quality, durable, and lightweight.",
+        "price": 393.8,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "5e08c6ab-52cb-44ef-922b-358e45afcbbe",
+        "name": "Change Laptop",
+        "description": "This home appliances product offers energy-saving, smart technology, and modern design.",
+        "price": 445.54,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "ed6745b7-86ae-4339-8b61-f2438f4373b4",
+        "name": "Bit Camera",
+        "description": "This wearable tech product offers heart rate sensor, water-resistant, and touchscreen.",
+        "price": 963.28,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "58730aa8-7ea6-4ad9-baec-da92a803c31d",
+        "name": "Many Laptop",
+        "description": "This wearable tech product offers touchscreen, fitness tracking, and sleep monitoring.",
+        "price": 659.48,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "1f7402a3-4aa2-4488-a9b0-f53cbf54e08b",
+        "name": "Support Camera",
+        "description": "This wearable tech product offers fitness tracking, sleep monitoring, and heart rate sensor.",
+        "price": 732.84,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "576e482e-a84c-4ce1-9e84-aabccb5f3753",
+        "name": "About Camera",
+        "description": "This electronics product offers compact, innovative design, and user-friendly.",
+        "price": 215.3,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "b91b19c1-0544-48df-820b-cfdf67f48b89",
+        "name": "Source Headphones",
+        "description": "This wearable tech product offers sleep monitoring, fitness tracking, and touchscreen.",
+        "price": 1228.82,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "243eafc4-a363-4f97-8647-c366741d63f2",
+        "name": "Training Watch",
+        "description": "This wearable tech product offers fitness tracking, touchscreen, and sleep monitoring.",
+        "price": 686.91,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "91b163a0-ab55-49eb-8a6c-4b0548a88d22",
+        "name": "Whose Watch",
+        "description": "This accessories product offers premium quality, lightweight, and versatile.",
+        "price": 562.23,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "8fc95d8d-4dbd-453c-a1ab-0e3644a842b3",
+        "name": "Four Smartphone",
+        "description": "This photography product offers image stabilization, 4K video recording, and high resolution.",
+        "price": 1092.05,
+        "category": "Photography"
+    },
+    {
+        "product_id": "17b3d452-baf9-4037-a769-19968794f02e",
+        "name": "Husband Headphones",
+        "description": "This accessories product offers durable, versatile, and lightweight.",
+        "price": 434.75,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "e04c5138-0be4-4efa-b5f5-c96db4976235",
+        "name": "Maybe Laptop",
+        "description": "This photography product offers high resolution, wide aperture, and 4K video recording.",
+        "price": 150.74,
+        "category": "Photography"
+    },
+    {
+        "product_id": "0eea1375-dc23-44cd-9927-d06b707717ac",
+        "name": "About Headphones",
+        "description": "This accessories product offers lightweight, versatile, and stylish.",
+        "price": 614.86,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "24f13379-d15f-4c2e-8d25-30dafea29fce",
+        "name": "Position Laptop",
+        "description": "This wearable tech product offers touchscreen, sleep monitoring, and fitness tracking.",
+        "price": 284.97,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "42e4bd52-4a44-408a-ae47-498a1450cf38",
+        "name": "Say Headphones",
+        "description": "This home appliances product offers low noise, energy-saving, and easy to use.",
+        "price": 1099.83,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "1e93845b-7ae2-4564-8b16-fa8e172f428a",
+        "name": "Room Laptop",
+        "description": "This accessories product offers lightweight, premium quality, and durable.",
+        "price": 1260.19,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "cb64cb98-476b-4cd0-bc1c-b930af3853f9",
+        "name": "Better Camera",
+        "description": "This photography product offers optical zoom, wide aperture, and image stabilization.",
+        "price": 955.32,
+        "category": "Photography"
+    },
+    {
+        "product_id": "d1c46c96-3270-4030-9735-3d0e52b25b31",
+        "name": "Cost Headphones",
+        "description": "This home appliances product offers modern design, energy-saving, and easy to use.",
+        "price": 467.75,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "198db64c-e694-45bc-8aa5-92dec0486bf7",
+        "name": "Play Smartphone",
+        "description": "This home appliances product offers energy-saving, modern design, and easy to use.",
+        "price": 245.82,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "ad9f8e2e-eecd-42bd-9ce8-0d1f4efac37a",
+        "name": "Strong Smartphone",
+        "description": "This photography product offers high resolution, optical zoom, and wide aperture.",
+        "price": 787.68,
+        "category": "Photography"
+    },
+    {
+        "product_id": "1992c2ad-4784-4fe2-82ea-3420a0a184aa",
+        "name": "Change Watch",
+        "description": "This accessories product offers premium quality, stylish, and lightweight.",
+        "price": 609.45,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "24501286-7cb1-4c72-8d5b-5b12420857e6",
+        "name": "Something Headphones",
+        "description": "This photography product offers 4K video recording, high resolution, and wide aperture.",
+        "price": 347.57,
+        "category": "Photography"
+    },
+    {
+        "product_id": "4fa876e0-b2a9-4859-adbe-ba2873159eb9",
+        "name": "Do Camera",
+        "description": "This electronics product offers compact, user-friendly, and energy-efficient.",
+        "price": 891.59,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "c4f30a97-4220-4a1d-9960-f19bab8c15db",
+        "name": "Education Smartphone",
+        "description": "This photography product offers high resolution, image stabilization, and optical zoom.",
+        "price": 1430.8,
+        "category": "Photography"
+    },
+    {
+        "product_id": "4108222f-3d4f-46a5-aca1-4d0da2402f28",
+        "name": "Partner Camera",
+        "description": "This wearable tech product offers water-resistant, fitness tracking, and sleep monitoring.",
+        "price": 852.84,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "4c911f1b-b19b-4736-b9bc-94c31851f9ef",
+        "name": "Interesting Smartphone",
+        "description": "This wearable tech product offers fitness tracking, sleep monitoring, and heart rate sensor.",
+        "price": 281.53,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "0af820d3-c91c-4299-a8cc-5db1d030a33c",
+        "name": "Stock Watch",
+        "description": "This wearable tech product offers fitness tracking, water-resistant, and sleep monitoring.",
+        "price": 1330.39,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "0bfcf206-a4d6-46dd-9d8c-a50278e7f5ca",
+        "name": "Leg Watch",
+        "description": "This accessories product offers durable, lightweight, and stylish.",
+        "price": 1248.74,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "b51f6c09-4aaf-42a5-9a6b-06b0c3646434",
+        "name": "South Headphones",
+        "description": "This photography product offers image stabilization, 4K video recording, and high resolution.",
+        "price": 328.79,
+        "category": "Photography"
+    },
+    {
+        "product_id": "bf7a0723-8529-4236-87c1-f350dc000863",
+        "name": "Nor Laptop",
+        "description": "This photography product offers high resolution, 4K video recording, and wide aperture.",
+        "price": 1209.89,
+        "category": "Photography"
+    },
+    {
+        "product_id": "f260ddcf-2579-400c-aa6b-7bc85bad5d60",
+        "name": "Return Watch",
+        "description": "This electronics product offers high-performance, energy-efficient, and compact.",
+        "price": 936.0,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "56436ad7-c4f6-44af-9ca0-0a46da31f10e",
+        "name": "Practice Headphones",
+        "description": "This home appliances product offers smart technology, low noise, and energy-saving.",
+        "price": 1188.52,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "2ba042d7-2d89-4d26-bb28-2726f7de4d3d",
+        "name": "Away Watch",
+        "description": "This electronics product offers compact, energy-efficient, and user-friendly.",
+        "price": 1108.75,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "968fcda6-dfb2-42c2-b245-dee58355f4bc",
+        "name": "Type Smartphone",
+        "description": "This home appliances product offers smart technology, low noise, and modern design.",
+        "price": 676.04,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "0aea9638-4262-4fc8-afaa-821524b98270",
+        "name": "Move Watch",
+        "description": "This photography product offers optical zoom, image stabilization, and 4K video recording.",
+        "price": 466.55,
+        "category": "Photography"
+    },
+    {
+        "product_id": "3d668638-d443-4e9e-925a-e85c559d3bbe",
+        "name": "North Laptop",
+        "description": "This accessories product offers premium quality, durable, and lightweight.",
+        "price": 759.75,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "65ecc76d-b40e-4460-801e-089686657ca7",
+        "name": "Firm Watch",
+        "description": "This electronics product offers user-friendly, innovative design, and high-performance.",
+        "price": 948.09,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "363bb471-fe58-40ee-8ff9-fb343e18058b",
+        "name": "Within Laptop",
+        "description": "This wearable tech product offers touchscreen, heart rate sensor, and fitness tracking.",
+        "price": 449.58,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "6ef3f1f9-200c-4b7a-8090-611ed2b4bb68",
+        "name": "Full Camera",
+        "description": "This accessories product offers premium quality, lightweight, and versatile.",
+        "price": 556.34,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "63041c37-9b30-43f8-a542-dc48439c514e",
+        "name": "Prevent Laptop",
+        "description": "This home appliances product offers low noise, easy to use, and modern design.",
+        "price": 704.94,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "beabb339-c3b0-4c1b-b0bc-f633c6317d59",
+        "name": "Use Watch",
+        "description": "This photography product offers wide aperture, high resolution, and image stabilization.",
+        "price": 1316.14,
+        "category": "Photography"
+    },
+    {
+        "product_id": "42dd18e0-a4ce-432e-b262-bcaed86df4e3",
+        "name": "Debate Laptop",
+        "description": "This accessories product offers durable, versatile, and stylish.",
+        "price": 309.6,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "e1e9c635-1e8f-417b-8348-80b1e2a3226e",
+        "name": "Evidence Watch",
+        "description": "This electronics product offers energy-efficient, compact, and innovative design.",
+        "price": 1453.03,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "f7944d90-85b4-4aa8-b757-1b957da631de",
+        "name": "And Headphones",
+        "description": "This photography product offers high resolution, optical zoom, and 4K video recording.",
+        "price": 821.7,
+        "category": "Photography"
+    },
+    {
+        "product_id": "174a0003-eb74-4fde-a691-d576d18a6edd",
+        "name": "End Camera",
+        "description": "This accessories product offers stylish, versatile, and premium quality.",
+        "price": 188.39,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "8fb9a53e-2b7d-4967-9b10-2ff1d681acfc",
+        "name": "Same Laptop",
+        "description": "This accessories product offers versatile, premium quality, and lightweight.",
+        "price": 1083.54,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "ddb010bc-e17d-4689-9321-674c2e49c64d",
+        "name": "East Headphones",
+        "description": "This photography product offers high resolution, optical zoom, and wide aperture.",
+        "price": 104.41,
+        "category": "Photography"
+    },
+    {
+        "product_id": "600bf05e-bbd2-4f79-a097-04d186b3e8dc",
+        "name": "Off Laptop",
+        "description": "This electronics product offers high-performance, user-friendly, and innovative design.",
+        "price": 1311.24,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "d2b167e0-6a7d-4b54-b3d2-30c0cdfd8311",
+        "name": "Science Headphones",
+        "description": "This photography product offers 4K video recording, image stabilization, and optical zoom.",
+        "price": 167.58,
+        "category": "Photography"
+    },
+    {
+        "product_id": "9131b7fc-c9f9-4207-899e-44d7bd6d5f6c",
+        "name": "Central Laptop",
+        "description": "This accessories product offers lightweight, versatile, and premium quality.",
+        "price": 362.28,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "a1ad1700-2e1a-430f-9717-49cc0dada6ca",
+        "name": "Can Smartphone",
+        "description": "This accessories product offers durable, stylish, and premium quality.",
+        "price": 1139.12,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "ac48562a-bfd5-4b14-b319-9bc57e88fa23",
+        "name": "Agency Headphones",
+        "description": "This accessories product offers durable, premium quality, and stylish.",
+        "price": 454.12,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "440e1f83-74c9-42a8-b2f7-afedcf30deab",
+        "name": "Here Smartphone",
+        "description": "This wearable tech product offers heart rate sensor, water-resistant, and sleep monitoring.",
+        "price": 1172.77,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "f4b21281-bb2f-4f94-8f36-391be970b807",
+        "name": "Author Laptop",
+        "description": "This accessories product offers stylish, premium quality, and durable.",
+        "price": 1098.04,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "92ade052-a522-435a-977f-8b30308fca5a",
+        "name": "Financial Camera",
+        "description": "This home appliances product offers smart technology, easy to use, and low noise.",
+        "price": 976.04,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "a9bb4d13-3326-47d1-8308-35ced5c08eb7",
+        "name": "Democratic Headphones",
+        "description": "This electronics product offers energy-efficient, compact, and high-performance.",
+        "price": 927.59,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "0d5e1b3d-a0b1-4022-a3f2-8637305e8aae",
+        "name": "Way Headphones",
+        "description": "This home appliances product offers low noise, easy to use, and energy-saving.",
+        "price": 1258.22,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "79c0dc57-0cf3-4cf3-8e94-dd999a546d4c",
+        "name": "Assume Watch",
+        "description": "This photography product offers wide aperture, high resolution, and 4K video recording.",
+        "price": 188.41,
+        "category": "Photography"
+    },
+    {
+        "product_id": "54821d96-abca-4557-8c4d-ae8cc4160da8",
+        "name": "Like Headphones",
+        "description": "This accessories product offers durable, versatile, and premium quality.",
+        "price": 886.04,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "e12fcd84-c5c0-4df9-8ee3-9ce4899955a8",
+        "name": "Toward Laptop",
+        "description": "This home appliances product offers low noise, smart technology, and easy to use.",
+        "price": 501.19,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "74e4bb51-8ffa-46d4-bd34-37f088fe4aaf",
+        "name": "Yes Headphones",
+        "description": "This accessories product offers lightweight, premium quality, and versatile.",
+        "price": 704.49,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "7f25d850-518c-4bab-ac6f-b82a16e44923",
+        "name": "Add Watch",
+        "description": "This photography product offers optical zoom, image stabilization, and 4K video recording.",
+        "price": 452.99,
+        "category": "Photography"
+    },
+    {
+        "product_id": "14e6ffb1-2d8d-4281-9042-47568e04c184",
+        "name": "Defense Laptop",
+        "description": "This home appliances product offers smart technology, easy to use, and energy-saving.",
+        "price": 1138.84,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "0b021cf2-b74d-45b4-a704-e17ba75c1156",
+        "name": "Data Laptop",
+        "description": "This wearable tech product offers heart rate sensor, water-resistant, and fitness tracking.",
+        "price": 1095.85,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "2fb90ca0-99f4-4cfb-979b-83ac4dd21068",
+        "name": "Camera Laptop",
+        "description": "This wearable tech product offers heart rate sensor, fitness tracking, and water-resistant.",
+        "price": 1255.99,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "f8d4c65e-77c9-4cab-b173-9f736b8a322c",
+        "name": "Dark Headphones",
+        "description": "This home appliances product offers energy-saving, modern design, and smart technology.",
+        "price": 1344.8,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "57421078-fc34-404b-a148-cfec251a2e71",
+        "name": "Exist Headphones",
+        "description": "This accessories product offers durable, stylish, and versatile.",
+        "price": 1354.38,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "4220af00-615e-4918-bac8-b99c4b157bf3",
+        "name": "Because Headphones",
+        "description": "This accessories product offers durable, versatile, and stylish.",
+        "price": 912.94,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "c4f79dd2-6527-4c07-98d9-1583ed1c51dd",
+        "name": "Receive Camera",
+        "description": "This photography product offers wide aperture, high resolution, and optical zoom.",
+        "price": 235.04,
+        "category": "Photography"
+    },
+    {
+        "product_id": "cb7bf4d3-2c65-4af1-927c-28a1aeeb3740",
+        "name": "Cup Headphones",
+        "description": "This electronics product offers energy-efficient, high-performance, and compact.",
+        "price": 208.48,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "71801f72-6a8e-47a4-a9a0-eb82131e6b46",
+        "name": "Scene Smartphone",
+        "description": "This electronics product offers high-performance, energy-efficient, and innovative design.",
+        "price": 1253.94,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "687314fd-de03-4c48-a5aa-6682ee689edc",
+        "name": "Whose Headphones",
+        "description": "This home appliances product offers smart technology, easy to use, and low noise.",
+        "price": 533.41,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "1834f0eb-8ed4-4fee-aebc-69f6f9abe394",
+        "name": "Answer Headphones",
+        "description": "This wearable tech product offers water-resistant, fitness tracking, and sleep monitoring.",
+        "price": 228.3,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "3566827e-34fa-4d9c-93ef-36097ef89673",
+        "name": "Feel Laptop",
+        "description": "This home appliances product offers easy to use, low noise, and modern design.",
+        "price": 801.31,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "8544c829-d988-494c-9124-63a1cb32da63",
+        "name": "Administration Laptop",
+        "description": "This photography product offers optical zoom, image stabilization, and high resolution.",
+        "price": 1374.71,
+        "category": "Photography"
+    },
+    {
+        "product_id": "b729a1b4-2477-463e-8260-5309e55312ab",
+        "name": "Week Watch",
+        "description": "This electronics product offers compact, innovative design, and energy-efficient.",
+        "price": 1015.58,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "b2960309-c293-4cf8-80c6-2fff73f115ba",
+        "name": "Attorney Watch",
+        "description": "This accessories product offers premium quality, stylish, and durable.",
+        "price": 1498.61,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "4fe24026-9504-4d7d-b2f5-60e7f3d531db",
+        "name": "School Camera",
+        "description": "This accessories product offers stylish, lightweight, and versatile.",
+        "price": 770.24,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "2840f68f-1fc0-4bf6-820a-d8683c7a6223",
+        "name": "Page Smartphone",
+        "description": "This photography product offers image stabilization, high resolution, and 4K video recording.",
+        "price": 882.02,
+        "category": "Photography"
+    },
+    {
+        "product_id": "9779f498-61f6-4581-b75f-c8d9d3785212",
+        "name": "Real Smartphone",
+        "description": "This electronics product offers innovative design, compact, and high-performance.",
+        "price": 1195.71,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "9b10bb7f-2ee7-4741-a192-3873a6f82387",
+        "name": "Off Watch",
+        "description": "This photography product offers wide aperture, high resolution, and optical zoom.",
+        "price": 1159.29,
+        "category": "Photography"
+    },
+    {
+        "product_id": "3cae280c-632b-4212-8eac-5b5192e5fe60",
+        "name": "Toward Watch",
+        "description": "This accessories product offers lightweight, stylish, and premium quality.",
+        "price": 692.5,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "a7f8283b-d881-43af-9b8c-fab5b09bc4c2",
+        "name": "Growth Watch",
+        "description": "This electronics product offers energy-efficient, high-performance, and innovative design.",
+        "price": 183.81,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "e1a18463-a2be-45be-9ed1-36390d607c91",
+        "name": "Ability Headphones",
+        "description": "This electronics product offers compact, high-performance, and energy-efficient.",
+        "price": 900.49,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "532c80d4-f52f-4b4d-a05f-e55b38a1d27e",
+        "name": "South Smartphone",
+        "description": "This photography product offers image stabilization, high resolution, and optical zoom.",
+        "price": 620.91,
+        "category": "Photography"
+    },
+    {
+        "product_id": "1667cbfd-2b63-4037-8c14-ff4a6667a804",
+        "name": "Television Smartphone",
+        "description": "This home appliances product offers modern design, smart technology, and low noise.",
+        "price": 696.83,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "377a628d-7134-4d16-bea1-0d9de96f90ce",
+        "name": "Change Camera",
+        "description": "This photography product offers 4K video recording, high resolution, and image stabilization.",
+        "price": 1098.79,
+        "category": "Photography"
+    },
+    {
+        "product_id": "c0341e5e-fd99-475f-9b8f-f0b93e3a8fe1",
+        "name": "Gun Headphones",
+        "description": "This home appliances product offers energy-saving, modern design, and smart technology.",
+        "price": 1364.8,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "d03c1e06-9a7b-4c13-ac4d-ae6e02960505",
+        "name": "Cut Laptop",
+        "description": "This photography product offers image stabilization, high resolution, and wide aperture.",
+        "price": 456.89,
+        "category": "Photography"
+    },
+    {
+        "product_id": "8fe1b820-c845-466a-ad1a-66dab6482ef2",
+        "name": "How Camera",
+        "description": "This electronics product offers compact, innovative design, and user-friendly.",
+        "price": 1016.54,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "98591314-6f64-4a04-8f77-07ad87a3f2d0",
+        "name": "Growth Laptop",
+        "description": "This wearable tech product offers sleep monitoring, heart rate sensor, and water-resistant.",
+        "price": 605.99,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "b570fcdb-7268-4935-b5a9-283590a38ff2",
+        "name": "Improve Smartphone",
+        "description": "This home appliances product offers easy to use, energy-saving, and modern design.",
+        "price": 1495.29,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "0d668840-06ce-4a2a-a953-f3101737c8b8",
+        "name": "North Headphones",
+        "description": "This home appliances product offers energy-saving, smart technology, and low noise.",
+        "price": 129.81,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "8e03fd4f-1825-4b94-af8a-71566a93f177",
+        "name": "Often Smartphone",
+        "description": "This electronics product offers energy-efficient, innovative design, and compact.",
+        "price": 1406.71,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "3fc2cc79-55a5-4711-83c0-3638d249b243",
+        "name": "Raise Camera",
+        "description": "This accessories product offers versatile, stylish, and durable.",
+        "price": 522.36,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "fbc329dc-3367-49ee-a5d2-d63869a2700f",
+        "name": "Ahead Laptop",
+        "description": "This electronics product offers compact, innovative design, and high-performance.",
+        "price": 558.58,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "950dcfa4-ba42-4b00-b49e-7fe3bdda4c60",
+        "name": "None Headphones",
+        "description": "This home appliances product offers easy to use, low noise, and smart technology.",
+        "price": 91.14,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "61e1ba38-98f5-4af5-8d84-6e2d44218019",
+        "name": "Sell Watch",
+        "description": "This home appliances product offers energy-saving, smart technology, and easy to use.",
+        "price": 1346.02,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "d0039f78-9c97-4124-bd1b-7e31457cf3e7",
+        "name": "Whom Camera",
+        "description": "This photography product offers wide aperture, image stabilization, and 4K video recording.",
+        "price": 664.2,
+        "category": "Photography"
+    },
+    {
+        "product_id": "6a7a117b-4580-4cb9-a1ae-25d04dbed56f",
+        "name": "Employee Smartphone",
+        "description": "This photography product offers wide aperture, 4K video recording, and optical zoom.",
+        "price": 1014.37,
+        "category": "Photography"
+    },
+    {
+        "product_id": "1ca74799-c275-4de9-ab8f-ee98720fb030",
+        "name": "Throughout Smartphone",
+        "description": "This home appliances product offers modern design, low noise, and energy-saving.",
+        "price": 1254.73,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "e04f1c3f-11cf-487c-9f2c-0600ce64e869",
+        "name": "This Laptop",
+        "description": "This home appliances product offers modern design, easy to use, and smart technology.",
+        "price": 1180.55,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4569a1f0-8000-45a5-8294-2810dfbba244",
+        "name": "Course Watch",
+        "description": "This accessories product offers stylish, lightweight, and versatile.",
+        "price": 1179.19,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "6fb485ff-f71c-4bb9-93dd-5455db349e4b",
+        "name": "Politics Laptop",
+        "description": "This home appliances product offers smart technology, modern design, and easy to use.",
+        "price": 1490.23,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "47dba035-3ad9-4cd6-9468-7fe2c523116a",
+        "name": "Good Headphones",
+        "description": "This accessories product offers durable, lightweight, and stylish.",
+        "price": 1388.8,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "f9956a76-119a-4a0e-9f46-aabb705aa04b",
+        "name": "Couple Laptop",
+        "description": "This wearable tech product offers heart rate sensor, sleep monitoring, and water-resistant.",
+        "price": 971.27,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "9a882ef7-79fc-475a-91f0-66a41cbede62",
+        "name": "Throw Headphones",
+        "description": "This wearable tech product offers fitness tracking, water-resistant, and touchscreen.",
+        "price": 122.69,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "6127c3a0-9a8f-44bc-8860-c374a58f6a61",
+        "name": "Address Watch",
+        "description": "This electronics product offers energy-efficient, compact, and innovative design.",
+        "price": 294.46,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "5b50caf7-21b1-43b2-aa8f-ec8212fa776f",
+        "name": "Hotel Laptop",
+        "description": "This electronics product offers high-performance, innovative design, and user-friendly.",
+        "price": 894.76,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "2580e210-15a0-4fd3-9b30-b2fec73d566e",
+        "name": "Cell Smartphone",
+        "description": "This accessories product offers lightweight, durable, and premium quality.",
+        "price": 1438.29,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "e2c74bf6-4d4a-4b98-83b3-919af1f5f5fe",
+        "name": "Test Watch",
+        "description": "This home appliances product offers smart technology, low noise, and easy to use.",
+        "price": 1056.47,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "43b1a2a5-c53d-454c-9b1f-970da8ff16dc",
+        "name": "Reveal Watch",
+        "description": "This electronics product offers innovative design, energy-efficient, and user-friendly.",
+        "price": 1147.64,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "051a9b9a-4513-424c-b1f9-199c830be200",
+        "name": "Make Watch",
+        "description": "This photography product offers image stabilization, optical zoom, and high resolution.",
+        "price": 82.63,
+        "category": "Photography"
+    },
+    {
+        "product_id": "5a48b0b5-204a-4d48-b012-040c405932d7",
+        "name": "Door Camera",
+        "description": "This photography product offers wide aperture, optical zoom, and 4K video recording.",
+        "price": 1299.64,
+        "category": "Photography"
+    },
+    {
+        "product_id": "61194f9d-407b-4bae-8eec-3b2d9e560e51",
+        "name": "Republican Camera",
+        "description": "This home appliances product offers modern design, low noise, and energy-saving.",
+        "price": 1463.3,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "94408381-3720-40a1-afb3-c3527d4ee9d6",
+        "name": "Now Headphones",
+        "description": "This accessories product offers lightweight, versatile, and stylish.",
+        "price": 344.47,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "cc662c72-1c89-4f01-a22a-e9d40346663c",
+        "name": "Individual Laptop",
+        "description": "This accessories product offers lightweight, durable, and stylish.",
+        "price": 1082.6,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "5a8307c4-0619-46de-ac91-3f2752356287",
+        "name": "Student Camera",
+        "description": "This accessories product offers premium quality, stylish, and versatile.",
+        "price": 642.3,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "5f19867c-b482-4ec9-b2fc-e2d29b55958a",
+        "name": "Follow Camera",
+        "description": "This home appliances product offers energy-saving, smart technology, and low noise.",
+        "price": 624.28,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "8cbefac6-5db6-4a85-9054-b37025adb04c",
+        "name": "Structure Laptop",
+        "description": "This photography product offers optical zoom, wide aperture, and 4K video recording.",
+        "price": 880.91,
+        "category": "Photography"
+    },
+    {
+        "product_id": "fe1e17af-eff5-427b-92bd-eafe7e8b2dcc",
+        "name": "Step Headphones",
+        "description": "This wearable tech product offers heart rate sensor, touchscreen, and water-resistant.",
+        "price": 1026.34,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "b7773f55-8b74-4e0e-bb4d-646c3ed91c01",
+        "name": "Goal Headphones",
+        "description": "This accessories product offers durable, premium quality, and versatile.",
+        "price": 998.61,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "ba9fff5b-1417-466f-a702-aa4ffd071ce0",
+        "name": "Situation Camera",
+        "description": "This electronics product offers user-friendly, compact, and high-performance.",
+        "price": 1471.66,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "e2de8d8a-ced4-41b3-95e4-15ea61a883c8",
+        "name": "Chance Laptop",
+        "description": "This wearable tech product offers water-resistant, sleep monitoring, and touchscreen.",
+        "price": 962.91,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "b1b62018-870c-4c07-b855-7dbc4cc4e188",
+        "name": "Table Headphones",
+        "description": "This photography product offers 4K video recording, image stabilization, and wide aperture.",
+        "price": 1007.6,
+        "category": "Photography"
+    },
+    {
+        "product_id": "93fe8c08-1cf7-4c9c-87fc-9d351b70e5e8",
+        "name": "Debate Watch",
+        "description": "This electronics product offers user-friendly, innovative design, and compact.",
+        "price": 132.53,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "4143c320-5373-43d6-bdf3-5deeba99b021",
+        "name": "Know Watch",
+        "description": "This home appliances product offers easy to use, smart technology, and low noise.",
+        "price": 1101.69,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "3a826af2-cdd9-4141-921a-34b6e405cd9c",
+        "name": "Project Watch",
+        "description": "This home appliances product offers modern design, low noise, and smart technology.",
+        "price": 1289.48,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "f74ff286-c43b-4641-a9c7-3629f2076918",
+        "name": "Discover Laptop",
+        "description": "This electronics product offers high-performance, user-friendly, and energy-efficient.",
+        "price": 705.75,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "2bb473a7-b444-4339-820e-98ec55dcd2b9",
+        "name": "Million Smartphone",
+        "description": "This wearable tech product offers heart rate sensor, fitness tracking, and sleep monitoring.",
+        "price": 772.14,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "21cf3de9-620f-4b40-a2a6-567481a6802b",
+        "name": "War Headphones",
+        "description": "This photography product offers 4K video recording, wide aperture, and image stabilization.",
+        "price": 725.59,
+        "category": "Photography"
+    },
+    {
+        "product_id": "26b3b840-652f-4384-aca5-94eb761a1f59",
+        "name": "Life Laptop",
+        "description": "This wearable tech product offers touchscreen, sleep monitoring, and fitness tracking.",
+        "price": 1234.26,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "3aceebd8-4bf0-4858-8cc8-ca6769ae0c1d",
+        "name": "Billion Smartphone",
+        "description": "This home appliances product offers low noise, energy-saving, and modern design.",
+        "price": 1292.68,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "cee1c738-1777-4d35-8b4b-ea1546760d55",
+        "name": "Middle Camera",
+        "description": "This photography product offers image stabilization, optical zoom, and 4K video recording.",
+        "price": 697.89,
+        "category": "Photography"
+    },
+    {
+        "product_id": "7b7cc641-9b1b-4d5c-860f-5bb0137c569f",
+        "name": "Me Smartphone",
+        "description": "This electronics product offers user-friendly, innovative design, and energy-efficient.",
+        "price": 501.71,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "ab5ff826-242d-4c95-a9cf-baa561e164c9",
+        "name": "Language Headphones",
+        "description": "This photography product offers high resolution, image stabilization, and 4K video recording.",
+        "price": 1051.47,
+        "category": "Photography"
+    },
+    {
+        "product_id": "5507d601-6479-4df3-869f-6dedba7be727",
+        "name": "Benefit Laptop",
+        "description": "This photography product offers wide aperture, high resolution, and image stabilization.",
+        "price": 1201.9,
+        "category": "Photography"
+    },
+    {
+        "product_id": "3a19a981-9633-4a1e-b507-d2bd4c468e21",
+        "name": "Foot Laptop",
+        "description": "This wearable tech product offers sleep monitoring, touchscreen, and water-resistant.",
+        "price": 621.5,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "98e29a45-0d64-4393-9fc9-11fda151633b",
+        "name": "Bit Smartphone",
+        "description": "This home appliances product offers easy to use, modern design, and smart technology.",
+        "price": 1267.99,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "f3962fde-426e-490d-b6ca-b622b6b9aca1",
+        "name": "Second Headphones",
+        "description": "This wearable tech product offers heart rate sensor, water-resistant, and touchscreen.",
+        "price": 470.3,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "f480eaf1-cf97-4685-a1df-b5f2fac5954f",
+        "name": "Peace Headphones",
+        "description": "This accessories product offers versatile, durable, and premium quality.",
+        "price": 493.23,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "787d9b96-9128-4baa-b1b2-08e78f6a187c",
+        "name": "Under Headphones",
+        "description": "This accessories product offers versatile, durable, and lightweight.",
+        "price": 331.09,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "efcb0c30-0479-4c9f-9674-2798c086bbac",
+        "name": "Anything Camera",
+        "description": "This accessories product offers stylish, versatile, and premium quality.",
+        "price": 485.44,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "b2c6c5b3-0116-4f12-93a9-0fc9e40632c4",
+        "name": "Statement Headphones",
+        "description": "This wearable tech product offers heart rate sensor, touchscreen, and fitness tracking.",
+        "price": 727.14,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "6a8bc414-c389-4148-a7c3-de3f302f8dec",
+        "name": "Wish Smartphone",
+        "description": "This electronics product offers user-friendly, innovative design, and energy-efficient.",
+        "price": 805.28,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "00f70ed8-461b-420c-94d0-abec442a6aab",
+        "name": "Past Laptop",
+        "description": "This photography product offers wide aperture, 4K video recording, and image stabilization.",
+        "price": 657.68,
+        "category": "Photography"
+    },
+    {
+        "product_id": "82b9403b-ba90-4372-9681-7e9761d34ba7",
+        "name": "Them Laptop",
+        "description": "This accessories product offers lightweight, premium quality, and stylish.",
+        "price": 1348.8,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "fd233c11-9017-498e-a4ac-f5d73e7ef907",
+        "name": "Light Camera",
+        "description": "This photography product offers optical zoom, image stabilization, and wide aperture.",
+        "price": 971.72,
+        "category": "Photography"
+    },
+    {
+        "product_id": "914e2c07-5fca-4448-acba-e67d3d288eac",
+        "name": "Land Headphones",
+        "description": "This electronics product offers compact, user-friendly, and high-performance.",
+        "price": 1079.52,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "f1712262-4dd8-4b27-8b7e-3a254a69b580",
+        "name": "Decision Smartphone",
+        "description": "This electronics product offers compact, energy-efficient, and user-friendly.",
+        "price": 1414.82,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "188b9a8e-fa81-4ccc-a8ba-210019073b70",
+        "name": "Hot Smartphone",
+        "description": "This wearable tech product offers heart rate sensor, water-resistant, and sleep monitoring.",
+        "price": 1013.13,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "180eb9bf-fa7c-4549-95da-7a52816509d0",
+        "name": "Yet Camera",
+        "description": "This wearable tech product offers water-resistant, sleep monitoring, and touchscreen.",
+        "price": 149.84,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "60b14be9-34aa-45f9-9114-efe0c965c716",
+        "name": "These Headphones",
+        "description": "This home appliances product offers easy to use, energy-saving, and smart technology.",
+        "price": 864.98,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "7f996854-c5d4-4728-927e-c9495e474f20",
+        "name": "Always Watch",
+        "description": "This home appliances product offers easy to use, smart technology, and modern design.",
+        "price": 810.78,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "c05bda09-4427-478f-baaf-5cf525f5fa7a",
+        "name": "Level Smartphone",
+        "description": "This electronics product offers energy-efficient, innovative design, and user-friendly.",
+        "price": 1004.02,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "af63d2f9-2447-4325-80c0-7a8eaf22c9be",
+        "name": "Wrong Smartphone",
+        "description": "This wearable tech product offers touchscreen, fitness tracking, and water-resistant.",
+        "price": 115.54,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "a18c1d72-5434-4b32-8599-2003fc254325",
+        "name": "Material Laptop",
+        "description": "This accessories product offers durable, stylish, and lightweight.",
+        "price": 1369.98,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "cf0129ca-026a-41ea-8064-45741aea7bc8",
+        "name": "Action Watch",
+        "description": "This accessories product offers lightweight, stylish, and durable.",
+        "price": 1394.32,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "542dd0f7-7476-4e7b-842f-474e92d9bfd2",
+        "name": "Hear Watch",
+        "description": "This photography product offers image stabilization, 4K video recording, and high resolution.",
+        "price": 287.74,
+        "category": "Photography"
+    },
+    {
+        "product_id": "cf495f08-4438-4f79-9d64-b8afdfe89a5f",
+        "name": "Region Laptop",
+        "description": "This electronics product offers energy-efficient, user-friendly, and high-performance.",
+        "price": 515.5,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "b3ed6d32-cf5c-415b-9ce6-19bba9c9cce5",
+        "name": "Investment Smartphone",
+        "description": "This wearable tech product offers heart rate sensor, water-resistant, and fitness tracking.",
+        "price": 1389.85,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "66bdd4a5-67ec-4555-9d7f-b7e87213917b",
+        "name": "For Smartphone",
+        "description": "This home appliances product offers energy-saving, modern design, and easy to use.",
+        "price": 220.51,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "466e0989-4d7d-477c-94a9-a4114b498cf7",
+        "name": "Example Watch",
+        "description": "This accessories product offers stylish, premium quality, and durable.",
+        "price": 270.43,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "3dbb6e42-625a-49fe-82b8-de3bffcadbfb",
+        "name": "Which Laptop",
+        "description": "This home appliances product offers easy to use, smart technology, and energy-saving.",
+        "price": 897.45,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "a50c23f2-5d6a-4642-b31c-9dcc15a22d2c",
+        "name": "Property Watch",
+        "description": "This electronics product offers compact, innovative design, and user-friendly.",
+        "price": 703.73,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "a068b9d9-d149-43bd-8e16-320690fc00e3",
+        "name": "Agree Smartphone",
+        "description": "This home appliances product offers energy-saving, easy to use, and smart technology.",
+        "price": 103.21,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "b1bd14a6-9d7a-4164-ade0-a4117d2218cd",
+        "name": "Music Laptop",
+        "description": "This photography product offers image stabilization, 4K video recording, and high resolution.",
+        "price": 1348.66,
+        "category": "Photography"
+    },
+    {
+        "product_id": "572551e9-5288-4612-9efa-c8d657943d79",
+        "name": "Visit Watch",
+        "description": "This home appliances product offers smart technology, easy to use, and energy-saving.",
+        "price": 525.95,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "7ab0b433-51fa-43f3-be9f-8c1b5a3fe8f7",
+        "name": "Someone Smartphone",
+        "description": "This accessories product offers durable, premium quality, and stylish.",
+        "price": 1328.05,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "a751d16e-29f0-44c2-b82d-2053eff30f2c",
+        "name": "Within Smartphone",
+        "description": "This wearable tech product offers touchscreen, water-resistant, and heart rate sensor.",
+        "price": 218.87,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "ea2fa710-3c99-4f9d-8df4-9b493ab07b10",
+        "name": "Really Laptop",
+        "description": "This wearable tech product offers fitness tracking, sleep monitoring, and water-resistant.",
+        "price": 402.93,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "6abb55a2-8887-473a-aa00-edc94d060f3e",
+        "name": "Military Camera",
+        "description": "This accessories product offers durable, premium quality, and lightweight.",
+        "price": 722.01,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "cd9ad679-1fd8-4385-adcc-81d39dd77918",
+        "name": "Information Camera",
+        "description": "This electronics product offers energy-efficient, compact, and user-friendly.",
+        "price": 1352.97,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "4d2af366-6958-4b11-bc9b-01fe04aeb0c9",
+        "name": "Nation Watch",
+        "description": "This electronics product offers high-performance, energy-efficient, and compact.",
+        "price": 89.74,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "49191508-4204-4648-96f5-b2a1749b4d63",
+        "name": "Nice Camera",
+        "description": "This home appliances product offers modern design, low noise, and smart technology.",
+        "price": 688.27,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "263a4c32-9363-47f0-8962-2968ffeb7c81",
+        "name": "Thing Smartphone",
+        "description": "This photography product offers 4K video recording, high resolution, and optical zoom.",
+        "price": 822.73,
+        "category": "Photography"
+    },
+    {
+        "product_id": "4b737ff0-6f53-4fac-94d1-a0c315298ff1",
+        "name": "Forget Camera",
+        "description": "This photography product offers wide aperture, 4K video recording, and high resolution.",
+        "price": 1336.97,
+        "category": "Photography"
+    },
+    {
+        "product_id": "f26c1d35-e37d-49fd-816b-f52c5b077607",
+        "name": "Home Camera",
+        "description": "This electronics product offers compact, energy-efficient, and user-friendly.",
+        "price": 107.71,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "a75e3bdd-ee4d-47dd-8644-8edcab77484f",
+        "name": "Against Camera",
+        "description": "This photography product offers wide aperture, high resolution, and 4K video recording.",
+        "price": 429.02,
+        "category": "Photography"
+    },
+    {
+        "product_id": "8801e6ba-3796-4a2c-ad07-61771c22500b",
+        "name": "War Watch",
+        "description": "This wearable tech product offers heart rate sensor, touchscreen, and water-resistant.",
+        "price": 739.99,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "332866c7-a23e-4171-a51a-5e87a0b2c004",
+        "name": "Turn Smartphone",
+        "description": "This electronics product offers compact, energy-efficient, and innovative design.",
+        "price": 1405.61,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "ba046b4f-40d9-41d8-bf4b-341146d216ef",
+        "name": "Sometimes Laptop",
+        "description": "This home appliances product offers modern design, smart technology, and low noise.",
+        "price": 445.02,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "15c3a6ee-6b3b-419e-b475-778e5467feaf",
+        "name": "Phone Headphones",
+        "description": "This wearable tech product offers touchscreen, heart rate sensor, and sleep monitoring.",
+        "price": 1083.03,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "ef371d4e-78c9-4f38-9561-14fdebe7ddb7",
+        "name": "Produce Headphones",
+        "description": "This electronics product offers compact, innovative design, and energy-efficient.",
+        "price": 1139.2,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "95ab0699-feb7-4a1b-83f1-beada6dae52b",
+        "name": "Read Smartphone",
+        "description": "This photography product offers image stabilization, 4K video recording, and optical zoom.",
+        "price": 1056.56,
+        "category": "Photography"
+    },
+    {
+        "product_id": "f7b2d09a-0f37-4d6c-8c44-941d101b2d66",
+        "name": "During Smartphone",
+        "description": "This accessories product offers stylish, versatile, and premium quality.",
+        "price": 577.34,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "26a0128c-3c1b-46ac-a678-9b9a9a5078b8",
+        "name": "Media Watch",
+        "description": "This home appliances product offers smart technology, easy to use, and low noise.",
+        "price": 754.42,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4874b107-2799-439f-853c-7d9fce83b435",
+        "name": "Ready Smartphone",
+        "description": "This accessories product offers premium quality, lightweight, and versatile.",
+        "price": 541.86,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "1ea9f865-24ca-465b-9127-8379b32fc396",
+        "name": "Allow Smartphone",
+        "description": "This accessories product offers durable, premium quality, and stylish.",
+        "price": 248.81,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "9b9a77d3-1f20-43ad-8f3f-2dde5c1916ee",
+        "name": "Charge Watch",
+        "description": "This wearable tech product offers heart rate sensor, fitness tracking, and water-resistant.",
+        "price": 239.75,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "bed9a635-8463-4d7c-864c-073b5a2919bc",
+        "name": "Million Headphones",
+        "description": "This home appliances product offers modern design, low noise, and energy-saving.",
+        "price": 672.84,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "5a43dd67-1c6a-43c4-9fd2-415658c87d38",
+        "name": "Political Camera",
+        "description": "This photography product offers high resolution, optical zoom, and wide aperture.",
+        "price": 764.1,
+        "category": "Photography"
+    },
+    {
+        "product_id": "f2999c53-27ac-4d04-ade2-88eb522cc2ee",
+        "name": "On Headphones",
+        "description": "This photography product offers image stabilization, optical zoom, and wide aperture.",
+        "price": 1102.29,
+        "category": "Photography"
+    },
+    {
+        "product_id": "9092aefe-35fa-4554-aea6-da3c8d397cee",
+        "name": "How Headphones",
+        "description": "This wearable tech product offers sleep monitoring, fitness tracking, and touchscreen.",
+        "price": 1065.33,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "56ebc3b6-aacb-4039-a7bc-ab63c8b4fc36",
+        "name": "Plant Headphones",
+        "description": "This home appliances product offers smart technology, easy to use, and modern design.",
+        "price": 795.1,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "f65dfef8-e771-4139-b1bd-5c741c882e77",
+        "name": "Will Camera",
+        "description": "This home appliances product offers energy-saving, low noise, and easy to use.",
+        "price": 601.39,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4752324e-8544-49d4-b2e6-dc57ee3e5f6d",
+        "name": "Reduce Camera",
+        "description": "This electronics product offers innovative design, user-friendly, and high-performance.",
+        "price": 833.84,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "d2c51c44-3aac-4043-a6cb-61fea8ff2be2",
+        "name": "Himself Camera",
+        "description": "This wearable tech product offers touchscreen, sleep monitoring, and heart rate sensor.",
+        "price": 1433.32,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "78225d30-75e7-4507-97b0-17b1b4d024e1",
+        "name": "Top Smartphone",
+        "description": "This wearable tech product offers touchscreen, fitness tracking, and heart rate sensor.",
+        "price": 315.78,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "ac1e8d33-753e-4356-8958-7e5dbc776faf",
+        "name": "Surface Laptop",
+        "description": "This photography product offers wide aperture, 4K video recording, and high resolution.",
+        "price": 115.45,
+        "category": "Photography"
+    },
+    {
+        "product_id": "aaa956f3-1f34-4c9a-b452-3ab7b980b842",
+        "name": "Never Smartphone",
+        "description": "This accessories product offers stylish, durable, and versatile.",
+        "price": 311.85,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "038aea6a-7997-4300-90f8-2b07c3b821f6",
+        "name": "Deep Headphones",
+        "description": "This home appliances product offers low noise, modern design, and energy-saving.",
+        "price": 904.34,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "c4490dc2-95ab-4883-8354-b67d578059d0",
+        "name": "Lay Watch",
+        "description": "This wearable tech product offers fitness tracking, touchscreen, and sleep monitoring.",
+        "price": 886.18,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "928f850b-9ad3-4bc8-9475-05f1f0e368f1",
+        "name": "It Laptop",
+        "description": "This electronics product offers innovative design, compact, and high-performance.",
+        "price": 593.6,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "436f3eb6-2704-4c24-9bac-bc82bce01aa8",
+        "name": "Claim Camera",
+        "description": "This electronics product offers innovative design, user-friendly, and compact.",
+        "price": 546.48,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "b3c117ee-9905-45a9-85c8-aeee63dd7685",
+        "name": "Practice Smartphone",
+        "description": "This home appliances product offers low noise, modern design, and energy-saving.",
+        "price": 1432.74,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "9230dff4-674f-4906-94de-014341dd0bca",
+        "name": "Vote Laptop",
+        "description": "This electronics product offers user-friendly, compact, and energy-efficient.",
+        "price": 623.7,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "9a332b03-3bdd-4676-8406-8ceec330206b",
+        "name": "Compare Headphones",
+        "description": "This photography product offers 4K video recording, image stabilization, and optical zoom.",
+        "price": 434.98,
+        "category": "Photography"
+    },
+    {
+        "product_id": "2efdcacb-aacf-41f4-998e-315b4b7d62f0",
+        "name": "Player Headphones",
+        "description": "This photography product offers high resolution, wide aperture, and image stabilization.",
+        "price": 239.29,
+        "category": "Photography"
+    },
+    {
+        "product_id": "8b61fdf0-7d6a-4dcd-b705-d9c770e4cde6",
+        "name": "Laugh Watch",
+        "description": "This accessories product offers durable, versatile, and lightweight.",
+        "price": 330.51,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "fe05e87a-a67f-4d15-ba76-3de3a4761a72",
+        "name": "Medical Laptop",
+        "description": "This photography product offers high resolution, wide aperture, and optical zoom.",
+        "price": 380.7,
+        "category": "Photography"
+    },
+    {
+        "product_id": "f5018e08-2a52-4fac-83f9-6eeb7abc2f3a",
+        "name": "Talk Smartphone",
+        "description": "This photography product offers 4K video recording, wide aperture, and high resolution.",
+        "price": 993.75,
+        "category": "Photography"
+    },
+    {
+        "product_id": "d341db09-4340-4429-9b09-6e07c38f1bb8",
+        "name": "Brother Headphones",
+        "description": "This wearable tech product offers heart rate sensor, sleep monitoring, and water-resistant.",
+        "price": 707.58,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "f2feeb0e-b12f-48bb-831a-3026db3b32b0",
+        "name": "Friend Headphones",
+        "description": "This home appliances product offers smart technology, modern design, and low noise.",
+        "price": 99.7,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4523c53b-a5b5-4073-9c78-ce29fae62b2f",
+        "name": "Floor Smartphone",
+        "description": "This home appliances product offers smart technology, energy-saving, and modern design.",
+        "price": 1392.74,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "d2b88dd6-af31-4207-9ae5-43f88200a3a9",
+        "name": "Picture Headphones",
+        "description": "This photography product offers 4K video recording, image stabilization, and wide aperture.",
+        "price": 297.24,
+        "category": "Photography"
+    },
+    {
+        "product_id": "14832be0-b77c-45fc-9908-d955f673a55d",
+        "name": "Serve Watch",
+        "description": "This wearable tech product offers heart rate sensor, sleep monitoring, and fitness tracking.",
+        "price": 1275.97,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "31009ac9-2964-452e-9102-5ba11f8105cb",
+        "name": "Indicate Smartphone",
+        "description": "This photography product offers high resolution, image stabilization, and optical zoom.",
+        "price": 403.76,
+        "category": "Photography"
+    },
+    {
+        "product_id": "fd908c0d-e184-4c2e-a0b4-21abc575e2bf",
+        "name": "By Headphones",
+        "description": "This photography product offers high resolution, wide aperture, and optical zoom.",
+        "price": 909.47,
+        "category": "Photography"
+    },
+    {
+        "product_id": "b0162884-d5a8-42c0-9fe5-29683c2506ce",
+        "name": "Day Watch",
+        "description": "This home appliances product offers energy-saving, easy to use, and modern design.",
+        "price": 965.98,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "b158a691-6c4b-435f-ba1f-65a2fb841aab",
+        "name": "Land Smartphone",
+        "description": "This accessories product offers lightweight, durable, and versatile.",
+        "price": 1118.77,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "9a7a1a2e-fc6e-4060-8205-aeca54db2340",
+        "name": "Democrat Watch",
+        "description": "This home appliances product offers modern design, low noise, and easy to use.",
+        "price": 424.41,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "7b818d52-0783-4967-9636-7e96694845a6",
+        "name": "So Headphones",
+        "description": "This electronics product offers energy-efficient, innovative design, and compact.",
+        "price": 490.4,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "c220afbc-c65b-4d4f-9a38-ac6b183d0b48",
+        "name": "Others Smartphone",
+        "description": "This photography product offers 4K video recording, wide aperture, and image stabilization.",
+        "price": 611.4,
+        "category": "Photography"
+    },
+    {
+        "product_id": "771b6f5e-b0d6-4862-9ec4-8d69c2071aed",
+        "name": "Unit Watch",
+        "description": "This wearable tech product offers heart rate sensor, touchscreen, and water-resistant.",
+        "price": 1450.72,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "b83e5d28-8042-4a89-b32f-c7c5b13a331f",
+        "name": "Common Laptop",
+        "description": "This electronics product offers innovative design, energy-efficient, and high-performance.",
+        "price": 1239.12,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "74ad356b-0ee0-449e-ac79-d5e846f04e95",
+        "name": "Budget Laptop",
+        "description": "This home appliances product offers smart technology, energy-saving, and low noise.",
+        "price": 1314.07,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "9126f532-a272-4788-bc2e-5208c8198171",
+        "name": "Until Camera",
+        "description": "This wearable tech product offers fitness tracking, water-resistant, and heart rate sensor.",
+        "price": 319.16,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "b10ce422-db0a-4eab-91f8-36e7c6cd249e",
+        "name": "Main Smartphone",
+        "description": "This electronics product offers compact, high-performance, and energy-efficient.",
+        "price": 293.81,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "b6eb3b6b-0096-49cc-902c-a980662a6ead",
+        "name": "Have Laptop",
+        "description": "This wearable tech product offers fitness tracking, water-resistant, and sleep monitoring.",
+        "price": 1313.81,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "c2a0d4f3-f4f5-4581-9e9c-ce6258088a1f",
+        "name": "Born Smartphone",
+        "description": "This photography product offers image stabilization, 4K video recording, and high resolution.",
+        "price": 683.33,
+        "category": "Photography"
+    },
+    {
+        "product_id": "4a840ef3-911d-4bac-95a8-5bc70ec039f9",
+        "name": "Space Camera",
+        "description": "This home appliances product offers low noise, energy-saving, and easy to use.",
+        "price": 122.51,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "f07f1857-c80b-45ae-b82a-e8cff6132f8f",
+        "name": "Significant Watch",
+        "description": "This wearable tech product offers fitness tracking, touchscreen, and water-resistant.",
+        "price": 166.05,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "c6add4ec-cc29-45e5-a9b3-ec454357689d",
+        "name": "Stage Headphones",
+        "description": "This wearable tech product offers touchscreen, fitness tracking, and water-resistant.",
+        "price": 332.62,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "14dca770-4317-4ece-b1ed-10339c79c314",
+        "name": "Must Camera",
+        "description": "This electronics product offers compact, innovative design, and user-friendly.",
+        "price": 363.07,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "cfb2110b-d8ba-49c7-89a1-2d50e93f7442",
+        "name": "Successful Watch",
+        "description": "This photography product offers image stabilization, 4K video recording, and wide aperture.",
+        "price": 1262.16,
+        "category": "Photography"
+    },
+    {
+        "product_id": "70279276-7da9-45f1-aff2-9c73bc5414d7",
+        "name": "Attorney Laptop",
+        "description": "This home appliances product offers smart technology, modern design, and energy-saving.",
+        "price": 1285.29,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4a5cf1a3-704f-4842-a188-7a4f0f49b9b9",
+        "name": "Animal Watch",
+        "description": "This home appliances product offers modern design, low noise, and energy-saving.",
+        "price": 89.02,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "3a07485c-dcbc-4b60-8dfc-55720fbd0b58",
+        "name": "Save Headphones",
+        "description": "This accessories product offers durable, premium quality, and versatile.",
+        "price": 395.54,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "809bce72-79d0-45e1-a767-508f22b981f9",
+        "name": "Ask Headphones",
+        "description": "This electronics product offers compact, innovative design, and high-performance.",
+        "price": 325.8,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "062a736a-fbff-4836-9dc3-e46992a1b552",
+        "name": "Account Laptop",
+        "description": "This accessories product offers versatile, durable, and premium quality.",
+        "price": 146.83,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "22576d51-631f-4200-8b24-7822319195d5",
+        "name": "Share Headphones",
+        "description": "This home appliances product offers smart technology, modern design, and energy-saving.",
+        "price": 1091.7,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "4f105b07-19d0-4d8d-b9f5-ef5ef4865776",
+        "name": "Talk Camera",
+        "description": "This accessories product offers versatile, durable, and stylish.",
+        "price": 314.69,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "af4136e3-82cf-477f-a83d-1d5298b4008f",
+        "name": "Sell Camera",
+        "description": "This wearable tech product offers touchscreen, water-resistant, and sleep monitoring.",
+        "price": 1470.03,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "e9276341-df88-4b8f-bf07-68d5415b6f41",
+        "name": "Final Camera",
+        "description": "This photography product offers optical zoom, wide aperture, and high resolution.",
+        "price": 488.31,
+        "category": "Photography"
+    },
+    {
+        "product_id": "ff7e62ef-02e4-4436-8e6a-055ce5c1fa0e",
+        "name": "Thought Laptop",
+        "description": "This accessories product offers lightweight, stylish, and premium quality.",
+        "price": 880.7,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "0ab9e694-9613-4beb-87c4-56bb8720f267",
+        "name": "There Laptop",
+        "description": "This home appliances product offers easy to use, energy-saving, and smart technology.",
+        "price": 183.08,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "729228c5-a84b-4ca4-a5ce-49b53bdb1384",
+        "name": "Peace Watch",
+        "description": "This photography product offers high resolution, image stabilization, and optical zoom.",
+        "price": 1006.57,
+        "category": "Photography"
+    },
+    {
+        "product_id": "28ee284e-1d1b-4dad-86be-eb058c627679",
+        "name": "Explain Laptop",
+        "description": "This wearable tech product offers sleep monitoring, fitness tracking, and touchscreen.",
+        "price": 1325.86,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "9c684ede-d877-470d-8a2b-be445277a503",
+        "name": "Because Camera",
+        "description": "This home appliances product offers low noise, easy to use, and modern design.",
+        "price": 525.65,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "adb30e4e-c471-470f-8b7b-90060db8306b",
+        "name": "Surface Camera",
+        "description": "This home appliances product offers easy to use, low noise, and smart technology.",
+        "price": 532.36,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "91aed38d-0135-4d03-a836-92907687c473",
+        "name": "Approach Headphones",
+        "description": "This electronics product offers compact, user-friendly, and energy-efficient.",
+        "price": 1233.82,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "2cc74717-bb66-4d4e-95b4-a905a0639f02",
+        "name": "Those Smartphone",
+        "description": "This accessories product offers lightweight, premium quality, and versatile.",
+        "price": 985.7,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "4b0d44f0-24b6-4f19-8e17-e138f37f3142",
+        "name": "Determine Watch",
+        "description": "This accessories product offers lightweight, premium quality, and versatile.",
+        "price": 548.93,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "58abd8ec-1609-4cab-a860-c24b7789127b",
+        "name": "Mrs Headphones",
+        "description": "This accessories product offers versatile, durable, and lightweight.",
+        "price": 882.7,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "88f103b3-ca7a-489b-9b9b-3a073dc09d0c",
+        "name": "Attack Smartphone",
+        "description": "This wearable tech product offers water-resistant, sleep monitoring, and heart rate sensor.",
+        "price": 1398.16,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "6cf2cd84-e3d0-4d38-899d-97b83a7a7f8c",
+        "name": "Seat Watch",
+        "description": "This wearable tech product offers water-resistant, fitness tracking, and touchscreen.",
+        "price": 239.11,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "10f48187-9ebf-4849-b77c-9411f5255255",
+        "name": "Cold Laptop",
+        "description": "This accessories product offers durable, versatile, and premium quality.",
+        "price": 635.26,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "e551e1d5-953b-4aee-b9e4-494310b1ffcc",
+        "name": "Already Headphones",
+        "description": "This accessories product offers durable, versatile, and premium quality.",
+        "price": 71.13,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "e99e2c51-9c59-48a6-9672-b401398cad6f",
+        "name": "Hope Headphones",
+        "description": "This accessories product offers versatile, stylish, and durable.",
+        "price": 215.43,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "fc71cc14-8482-46db-bbc4-a4333d18ebe4",
+        "name": "Price Headphones",
+        "description": "This home appliances product offers modern design, energy-saving, and low noise.",
+        "price": 242.68,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "1fa57f33-a96d-4898-b74b-79ebff00e735",
+        "name": "Manage Watch",
+        "description": "This wearable tech product offers heart rate sensor, fitness tracking, and sleep monitoring.",
+        "price": 1053.71,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "450723b7-9d39-43ea-9c2a-3cb5c38523e2",
+        "name": "The Watch",
+        "description": "This accessories product offers lightweight, durable, and premium quality.",
+        "price": 1374.3,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "08aa939f-270b-4622-b09e-6d0d0dc61da2",
+        "name": "Perhaps Camera",
+        "description": "This accessories product offers stylish, versatile, and lightweight.",
+        "price": 345.46,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "53ba0035-80c1-4ef6-9c0f-25253c91a150",
+        "name": "Find Smartphone",
+        "description": "This wearable tech product offers water-resistant, fitness tracking, and sleep monitoring.",
+        "price": 290.91,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "c2ab9f33-be79-4632-a6c9-d9a7e3db2f8e",
+        "name": "Director Laptop",
+        "description": "This accessories product offers premium quality, stylish, and durable.",
+        "price": 982.26,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "f15131d4-e3e1-4c73-a4df-d4095e78e8b3",
+        "name": "Subject Smartphone",
+        "description": "This electronics product offers innovative design, user-friendly, and compact.",
+        "price": 1118.38,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "8f4909ec-3e54-4827-883f-60b16abf3f88",
+        "name": "Around Watch",
+        "description": "This photography product offers high resolution, 4K video recording, and wide aperture.",
+        "price": 1022.56,
+        "category": "Photography"
+    },
+    {
+        "product_id": "1c89551f-2190-477f-a395-d94303bc75cf",
+        "name": "Large Smartphone",
+        "description": "This wearable tech product offers fitness tracking, heart rate sensor, and sleep monitoring.",
+        "price": 124.32,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "ec165908-8473-46d8-be94-dec2a960d933",
+        "name": "Record Laptop",
+        "description": "This electronics product offers innovative design, high-performance, and compact.",
+        "price": 922.77,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "5a52bc4b-8f8d-41e4-9eaf-0ce9e43f2462",
+        "name": "Everyone Headphones",
+        "description": "This photography product offers 4K video recording, optical zoom, and high resolution.",
+        "price": 1368.79,
+        "category": "Photography"
+    },
+    {
+        "product_id": "7cac2769-c447-4c24-8218-3aafc335dd85",
+        "name": "Study Headphones",
+        "description": "This photography product offers wide aperture, 4K video recording, and image stabilization.",
+        "price": 1267.99,
+        "category": "Photography"
+    },
+    {
+        "product_id": "2ee45ef2-5286-48aa-af55-fa7c7c37a00f",
+        "name": "Loss Laptop",
+        "description": "This home appliances product offers low noise, energy-saving, and easy to use.",
+        "price": 881.52,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "258ae56b-cc22-4758-a4f9-e57eba9935fc",
+        "name": "Entire Headphones",
+        "description": "This photography product offers image stabilization, high resolution, and optical zoom.",
+        "price": 1144.72,
+        "category": "Photography"
+    },
+    {
+        "product_id": "9a12b056-3ff3-481b-a19d-3462ebae9eb2",
+        "name": "Contain Camera",
+        "description": "This accessories product offers stylish, durable, and lightweight.",
+        "price": 176.97,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "9e4847f3-122a-4688-b35b-8edc26f74b3d",
+        "name": "Kitchen Headphones",
+        "description": "This home appliances product offers energy-saving, easy to use, and modern design.",
+        "price": 1264.24,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "9ebfb819-3eba-44fd-b57f-73ef3694e69e",
+        "name": "Throw Laptop",
+        "description": "This photography product offers 4K video recording, image stabilization, and optical zoom.",
+        "price": 770.35,
+        "category": "Photography"
+    },
+    {
+        "product_id": "76027717-b03c-492d-864f-0f085bda6466",
+        "name": "Loss Camera",
+        "description": "This photography product offers high resolution, wide aperture, and optical zoom.",
+        "price": 271.75,
+        "category": "Photography"
+    },
+    {
+        "product_id": "aeb05f28-1d5f-4aac-ad7e-af852e068cff",
+        "name": "Something Camera",
+        "description": "This accessories product offers lightweight, durable, and stylish.",
+        "price": 982.4,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "f72d5844-484a-4965-a78d-eb0e269b3f53",
+        "name": "Allow Watch",
+        "description": "This home appliances product offers modern design, smart technology, and low noise.",
+        "price": 1336.88,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "a2a7e882-c707-48f8-a4ac-291b0d4d3e26",
+        "name": "Certain Smartphone",
+        "description": "This photography product offers image stabilization, optical zoom, and high resolution.",
+        "price": 1466.16,
+        "category": "Photography"
+    },
+    {
+        "product_id": "f8d159f4-38e6-4c14-9f0a-0a2b82098d3f",
+        "name": "Treatment Camera",
+        "description": "This wearable tech product offers sleep monitoring, touchscreen, and fitness tracking.",
+        "price": 230.8,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "f74f0892-1b9f-44ce-8777-4752b1058103",
+        "name": "Note Watch",
+        "description": "This photography product offers high resolution, 4K video recording, and image stabilization.",
+        "price": 1465.36,
+        "category": "Photography"
+    },
+    {
+        "product_id": "d29e5578-9d77-44db-903a-aaad720f6945",
+        "name": "Nature Camera",
+        "description": "This accessories product offers durable, premium quality, and stylish.",
+        "price": 1477.75,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "7a8f142c-229b-4ca1-9703-87d530deb027",
+        "name": "Everybody Watch",
+        "description": "This electronics product offers user-friendly, compact, and innovative design.",
+        "price": 1144.43,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "b51b9bfc-5a1f-46f3-b2ff-be9af7ef9f70",
+        "name": "Management Smartphone",
+        "description": "This electronics product offers high-performance, energy-efficient, and innovative design.",
+        "price": 541.36,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "3f16038e-15ec-4852-b74b-a76e6e1c592d",
+        "name": "My Headphones",
+        "description": "This wearable tech product offers touchscreen, water-resistant, and fitness tracking.",
+        "price": 416.19,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "9b5668e5-7552-4922-8afb-282e85282b0b",
+        "name": "Perhaps Headphones",
+        "description": "This electronics product offers compact, high-performance, and user-friendly.",
+        "price": 320.21,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "878dcce7-42bc-4fa9-8723-abaf9fb40b90",
+        "name": "Door Headphones",
+        "description": "This accessories product offers stylish, versatile, and lightweight.",
+        "price": 1260.29,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "f3de1797-57ea-46fa-8a12-4e35a609c28a",
+        "name": "Why Laptop",
+        "description": "This electronics product offers compact, high-performance, and user-friendly.",
+        "price": 1050.4,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "b588dd70-f4b5-4ff3-b708-49fbd488b512",
+        "name": "Almost Watch",
+        "description": "This home appliances product offers low noise, energy-saving, and smart technology.",
+        "price": 274.36,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "f8813e56-439d-42d1-8f1e-297886a7ffcf",
+        "name": "Event Camera",
+        "description": "This wearable tech product offers sleep monitoring, fitness tracking, and touchscreen.",
+        "price": 536.16,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "35113b25-7133-4ae2-8ffb-6aa7ca2dd847",
+        "name": "Again Laptop",
+        "description": "This accessories product offers durable, premium quality, and stylish.",
+        "price": 837.07,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "75ada8aa-77c8-4e6a-98fc-bf14e68dabcf",
+        "name": "Career Watch",
+        "description": "This accessories product offers durable, premium quality, and versatile.",
+        "price": 323.09,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "182a7c32-4df2-41c6-b29c-46b4167758ce",
+        "name": "Pm Camera",
+        "description": "This electronics product offers energy-efficient, user-friendly, and innovative design.",
+        "price": 820.35,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "550c2570-7e6a-4c9d-bd42-14a5302ac342",
+        "name": "Wind Camera",
+        "description": "This photography product offers optical zoom, 4K video recording, and high resolution.",
+        "price": 214.48,
+        "category": "Photography"
+    },
+    {
+        "product_id": "1d2b2809-7d0c-4f43-ae44-261c587ac66d",
+        "name": "Increase Watch",
+        "description": "This electronics product offers energy-efficient, innovative design, and user-friendly.",
+        "price": 397.27,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "7f440cba-1c69-4b5c-9cea-b12d19f2a5bd",
+        "name": "Drop Smartphone",
+        "description": "This home appliances product offers low noise, smart technology, and easy to use.",
+        "price": 341.1,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "54252860-5c56-4bf5-a55f-33f1ac76d869",
+        "name": "Their Headphones",
+        "description": "This accessories product offers durable, lightweight, and premium quality.",
+        "price": 844.73,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "7ab92979-99dd-449e-8624-7fada9b449ab",
+        "name": "Entire Watch",
+        "description": "This accessories product offers durable, lightweight, and stylish.",
+        "price": 205.29,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "37a8e395-4a0e-4acc-b3ac-01ce222d6d03",
+        "name": "Live Smartphone",
+        "description": "This photography product offers high resolution, optical zoom, and image stabilization.",
+        "price": 1137.11,
+        "category": "Photography"
+    },
+    {
+        "product_id": "453355a3-2990-4215-b1bc-99eb2f6dc925",
+        "name": "Build Headphones",
+        "description": "This accessories product offers stylish, versatile, and premium quality.",
+        "price": 1398.07,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "95a0f3db-fcd2-49c6-b637-1da05b001554",
+        "name": "All Headphones",
+        "description": "This photography product offers wide aperture, 4K video recording, and optical zoom.",
+        "price": 1491.48,
+        "category": "Photography"
+    },
+    {
+        "product_id": "79e7f88a-b62b-4ba6-b023-7e7e80654cd7",
+        "name": "Itself Headphones",
+        "description": "This wearable tech product offers fitness tracking, water-resistant, and touchscreen.",
+        "price": 72.73,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "48d343ee-7c36-46c1-b830-653131c124e8",
+        "name": "A Smartphone",
+        "description": "This wearable tech product offers water-resistant, fitness tracking, and touchscreen.",
+        "price": 1367.98,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "41f97572-a45b-44d6-bff4-5c708f99fc08",
+        "name": "Ago Laptop",
+        "description": "This accessories product offers versatile, durable, and premium quality.",
+        "price": 1321.34,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "100ac6b0-822f-48ae-a5d4-e66a231d844d",
+        "name": "Dream Laptop",
+        "description": "This electronics product offers innovative design, user-friendly, and compact.",
+        "price": 1413.18,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "c81aa9db-32cf-45d9-b3da-906fc502be48",
+        "name": "Least Headphones",
+        "description": "This photography product offers high resolution, optical zoom, and 4K video recording.",
+        "price": 1367.03,
+        "category": "Photography"
+    },
+    {
+        "product_id": "1c8d9460-acf1-4714-97c2-dcb49c504924",
+        "name": "Themselves Laptop",
+        "description": "This electronics product offers innovative design, user-friendly, and high-performance.",
+        "price": 582.61,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "75762c4b-690e-4fc9-ab08-98e63e1d319e",
+        "name": "Time Camera",
+        "description": "This home appliances product offers modern design, energy-saving, and smart technology.",
+        "price": 423.3,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "f125ce5c-493d-400f-8595-33b789c9961a",
+        "name": "Very Laptop",
+        "description": "This home appliances product offers energy-saving, low noise, and smart technology.",
+        "price": 1201.08,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "ca7c6850-b5ff-4ede-8977-6d66476ff691",
+        "name": "Democrat Laptop",
+        "description": "This photography product offers optical zoom, high resolution, and wide aperture.",
+        "price": 322.94,
+        "category": "Photography"
+    },
+    {
+        "product_id": "72ef9467-e741-45a3-9429-c00c2b873f92",
+        "name": "School Laptop",
+        "description": "This electronics product offers energy-efficient, user-friendly, and high-performance.",
+        "price": 328.22,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "600811fa-d7a6-44bd-8da8-a6b7acc4d754",
+        "name": "Bed Laptop",
+        "description": "This accessories product offers premium quality, durable, and lightweight.",
+        "price": 742.6,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "9c9a1feb-1638-4a35-a966-c34bf78fcbf3",
+        "name": "Station Camera",
+        "description": "This accessories product offers premium quality, durable, and versatile.",
+        "price": 469.01,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "12bc0e9f-84dd-4d2d-97ff-6c5751648a09",
+        "name": "Third Camera",
+        "description": "This electronics product offers compact, high-performance, and innovative design.",
+        "price": 1116.81,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "112b56e7-0cf4-463a-988c-991dc6da1789",
+        "name": "Serve Laptop",
+        "description": "This wearable tech product offers fitness tracking, sleep monitoring, and water-resistant.",
+        "price": 1111.89,
+        "category": "Wearable Tech"
+    },
+    {
+        "product_id": "1c580e69-aecf-4527-a0db-a9ff84773000",
+        "name": "Six Camera",
+        "description": "This accessories product offers lightweight, durable, and versatile.",
+        "price": 546.72,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "fca59c8e-9ed8-4057-9193-1ccf12beaa72",
+        "name": "Idea Headphones",
+        "description": "This accessories product offers lightweight, durable, and premium quality.",
+        "price": 438.59,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "2ae5320e-170e-40ce-a72a-c46a9baf9975",
+        "name": "Organization Headphones",
+        "description": "This electronics product offers user-friendly, compact, and energy-efficient.",
+        "price": 809.46,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "c77200dd-7c27-487b-a7c5-199fe3104d8d",
+        "name": "Ability Watch",
+        "description": "This home appliances product offers smart technology, low noise, and easy to use.",
+        "price": 151.62,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "acdee0c5-ac9e-461a-bb04-5e4f7550fdaf",
+        "name": "Spring Smartphone",
+        "description": "This home appliances product offers modern design, low noise, and smart technology.",
+        "price": 940.68,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": "e2d2f110-4226-4111-a1f7-09bd9137ce44",
+        "name": "Program Headphones",
+        "description": "This electronics product offers innovative design, high-performance, and compact.",
+        "price": 1044.81,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "d01b661e-e683-4b77-a8a0-208684a2d1a2",
+        "name": "Month Camera",
+        "description": "This electronics product offers compact, energy-efficient, and high-performance.",
+        "price": 1144.66,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "304ddf66-3579-497d-ade7-a6cfacf1e1bb",
+        "name": "Character Headphones",
+        "description": "This electronics product offers innovative design, user-friendly, and high-performance.",
+        "price": 1393.67,
+        "category": "Electronics"
+    },
+    {
+        "product_id": "0f0d88da-1a5a-4c29-b662-0167c07df980",
+        "name": "Money Smartphone",
+        "description": "This accessories product offers premium quality, lightweight, and stylish.",
+        "price": 300.85,
+        "category": "Accessories"
+    },
+    {
+        "product_id": "376a3e86-e0b4-4b78-a75a-602a8ff34652",
+        "name": "Let Camera",
+        "description": "This photography product offers 4K video recording, high resolution, and image stabilization.",
+        "price": 1101.34,
+        "category": "Photography"
+    },
+    {
+        "product_id": "d060409e-028e-4c4c-8013-29b8fa0a9777",
+        "name": "Government Smartphone",
+        "description": "This accessories product offers lightweight, versatile, and stylish.",
+        "price": 1255.16,
+        "category": "Accessories"
+    }
+]

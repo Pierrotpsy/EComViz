@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Items</title>
+    <script>
+        function updateFormFields() {
+            var collection = document.getElementById("collectionSelect").value;
+            var allFields = document.getElementsByClassName("dynamic-field");
+            for (var i = 0; i < allFields.length; i++) {
+                allFields[i].style.display = 'none';
+            }
+
+            // Clear all input fields
+            var inputs = document.getElementsByTagName('input');
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].type.toLowerCase() == 'text' || inputs[i].type.toLowerCase() == 'number' || inputs[i].type.toLowerCase() == 'email' || inputs[i].type.toLowerCase() == 'date') {
+                    inputs[i].value = '';
+                }
+            }
+
+            var collectionFields = document.getElementsByClassName(collection);
+            for (var i = 0; i < collectionFields.length; i++) {
+                collectionFields[i].style.display = 'block';
+            }
+            // Update form action based on the selected collection
+            document.getElementById("manageForm").action = '/add-' + collection;
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            updateFormFields(); // Update on load
+        });
+    </script>
+</head>
+<body>
+    <h1>Add Items</h1>
+    <form method="POST" action="" id="manageForm">
+        <select name="collection" id="collectionSelect" onchange="updateFormFields()">
+            <option value="users">Users</option>
+            <option value="products">Products</option>
+            <option value="sales">Sales</option>
+            <option value="feedback">Feedback</option>
+        </select>
+        <input type="hidden" name="action" id="action" value="add" />
+
+        <!-- User Fields -->
+        <div class="users dynamic-field">
+            <input type="text" name="user_name" placeholder="Name" />
+            <input type="email" name="email" placeholder="Email" />
+            <input type="text" name="address" placeholder="Address" />
+            <input type="date" name="join_date" placeholder="Join Date" />
+            <!-- Include other user-specific fields -->
+        </div>
+
+        <!-- Product Fields -->
+        <div class="products dynamic-field">
+            <input type="text" name="product_name" placeholder="Product Name" />
+            <input type="text" name="description" placeholder="Description" />
+            <input type="number" name="price" placeholder="Price" />
+            <input type="text" name="category" placeholder="Category" />
+        </div>
+
+        <!-- Sales Fields -->
+        <div class="sales dynamic-field">
+            <input type="text" name="sale_user_id" placeholder="User ID" />
+            <input type="text" name="sale_product_id" placeholder="Product ID" />
+            <input type="number" name="quantity" placeholder="Quantity" />
+            <input type="date" name="sale_date" placeholder="Sale Date" />
+        </div>
+
+        <!-- Feedback Fields -->
+        <div class="feedback dynamic-field">
+            <input type="text" name="feedback_user_id" placeholder="User ID" />
+            <input type="text" name="feedback_product_id" placeholder="Product ID" />
+            <input type="number" name="rating" placeholder="Rating" />
+            <input type="text" name="comment" placeholder="Comment" />
+            <input type="date" name="feedback_date" placeholder="Feedback Date" />
+        </div>
+
+        <button type="submit">Add</button>
+    </form>
+</body>
+</html>

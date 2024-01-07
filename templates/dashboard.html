@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kibana Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h1>My Kibana Dashboard</h1>
+    <!-- Back to Home Button -->
+    <button onclick="location.href='/'" class="back-to-home">Home</button>
+    
+    <!-- Embed Kibana Dashboard -->
+    <div class="iframe-container">
+      <iframe src="http://localhost:5601/app/dashboards#/view/2d7a9af0-acb2-11ee-abe6-8bcb84e22248?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-5y%2Cto%3Anow))&show-query-input=true&show-time-filter=true" frameborder="0"></iframe>
+  </div>
+
+</body>
+</html>

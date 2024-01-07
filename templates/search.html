@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Universal Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+    <h1>Universal Search</h1>
+    <!-- Back to Home Button -->
+    <button onclick="location.href='/'" class="back-to-home">Home</button>
+    <br>
+    <input type="text" id="searchInput" placeholder="Enter search query...">
+    <button id="searchButton">Search</button>
+
+    <div id="searchResults">
+        <!-- Search results will be displayed here -->
+    </div>
+
+    <script src="{{ url_for('static', filename='js/search.js') }}"></script>
+</body>
+</html>
