@@ -1,10 +1,10 @@
-## **E-Commerce Analytics Dashboard App - Detailed Report**
+## **E-Commerce Analytics Dashboard Webapp - Report**
 ***
 By Maxime Merlin
 ***
 
 ### **Overview**
-The e-commerce analytics dashboard app is a sophisticated tool designed to provide comprehensive insights into various facets of e-commerce operations. Its primary aim is to aid business stakeholders in making data-driven decisions through real-time analytics.
+The e-commerce analytics dashboard app is a tool designed to provide comprehensive insights into various facets of e-commerce operations. Its primary aim is to aid business stakeholders in making data-driven decisions through real-time analytics.
 
 ### **Key Functionalities**
 - **User Analytics:** 
