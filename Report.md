@@ -61,5 +61,5 @@ Here's a brief video showcasing the app's features:
 - **Reason for Choosing**: Its NoSQL nature provides the necessary flexibility and scalability for dynamic e-commerce data. In my specific usage of it, its NoSQL nature also allowed for iterative development of the data generation script.
 
 ### Elasticsearch
-- **Usage**: Elasticsearch enhances the app's search functionality.
+- **Usage**: Elasticsearch enhances the app's search functionality and allows the use of Kibana.
 - **Reason for Choosing**: Its fast, real-time search capability is crucial for managing the large data volumes typical in e-commerce platforms. I didn't put it to the test with my usage of it since I have at most 20 000 items in any collection, which even MongoDB can easily handle, but we can imagine that an e-commerce platform would generate enormous amounts of data, which Elasticsearch would be capable of managing.
