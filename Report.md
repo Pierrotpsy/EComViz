@@ -46,6 +46,7 @@ The data mirrored in Elasticsearch enabled the integration of a Kibana dashboard
 
 #### Demo
 Here's a brief video showcasing the app's features:
+<video src='[your URL here](https://github.com/Pierrotpsy/EComViz/blob/main/images/EComViz_demo.webm.mov)' width=180></video>
 
 ![demo](https://github.com/Pierrotpsy/EComViz/blob/main/images/EComViz_demo.webm.mov)
 ## Technical Choices Explained
