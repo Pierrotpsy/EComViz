@@ -31,18 +31,18 @@ Ensure MongoDB and Elasticsearch services are running. Update the python scripts
 
 Then, you'll need to populate your databases by running the `init-app.py` script. This will use the four data file present in the `/data` directory.
 ```bash
-python3 init-app.py
+python init-app.py
 ```
 
 Alternatively, you can choose to generate new data by running the `generate-data.py` script:
 ```bash
-python3 data/generate-data.py
+python data/generate-data.py
 ```
 
 ## Running the Application
 To run the Flask application:
 ```bash
-python3 app.py
+python app.py
 ```
 Then open a web browser and go to [http://127.0.0.1:5000/](http://127.0.0.1:5000/). You should see the web app and be able to navigate through the different pages.
 
