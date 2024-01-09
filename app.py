@@ -3,21 +3,25 @@ from pymongo import MongoClient
 from elasticsearch import Elasticsearch
 from faker import Faker
 
-# Initialize Flask app
+# Initialize a Flask application
 app = Flask(__name__)
+# Initialize Faker for generating fake data
 fake = Faker()
 
-# MongoDB connection
+# Establish a connection to MongoDB
 mongo_client = MongoClient("mongodb://localhost:27017/")
+# Select the 'ecommerce_db' database in MongoDB
 mongo_db = mongo_client["ecommerce_db"]
 
-# Elasticsearch connection
+# Establish a connection to Elasticsearch
 es_client = Elasticsearch("http://localhost:9200")
 
+# Route to the home page
 @app.route('/')
 def index():
     return render_template('home.html')
 
+# Other routes for different pages
 @app.route('/users')
 def users():
     return render_template('users.html')
@@ -46,11 +50,13 @@ def kibana_dashboard():
 def manage_item():
     return render_template('manage-item.html')
 
+# API route to get sales data from MongoDB
 @app.route('/api/sales', methods=['GET'])
 def get_sales_data():
     sales_data = list(mongo_db.sales.find({}, {'_id': 0}))
     return jsonify(sales_data)
 
+# Similar API routes for users, feedback, and products
 @app.route('/api/users', methods=['GET'])
 def get_users_data():
     users_data = list(mongo_db.users.find({}, {'_id': 0}))
@@ -66,6 +72,7 @@ def get_products_data():
     products_data = list(mongo_db.products.find({}, {'_id': 0}))
     return jsonify(products_data)
 
+# API route for universal search using Elasticsearch
 @app.route('/api/search', methods=['GET'])
 def universal_search():
     query = request.args.get('query', '')
@@ -83,6 +90,7 @@ def universal_search():
     )
     return jsonify([hit["_source"] for hit in response['hits']['hits']])
 
+# Routes to add new data entries to MongoDB and Elasticsearch
 @app.route('/add-users', methods=['POST'])
 def add_users():
     user_data = {
@@ -99,11 +107,13 @@ def add_users():
             ]
         }
     }
+    # Insert data into MongoDB and index it in Elasticsearch
     result = mongo_db['users'].insert_one(user_data)
     mongo_id = str(user_data.pop("_id", None))
     es_client.index(index='es_users_index', id=str(mongo_id), body=user_data)
     return redirect(url_for('index'))
 
+# Similar routes for adding products, sales, and feedback
 @app.route('/add-products', methods=['POST'])
 def add_products():
     product_data = {
@@ -147,7 +157,6 @@ def add_feedback():
     es_client.index(index='es_feedback_index', id=str(mongo_id), body=feedback_data)
     return redirect(url_for('index'))
 
-
-
+# Run the Flask app
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)

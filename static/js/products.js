@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-  fetch('/api/products')  // Update with your actual API endpoint
+  fetch('/api/products')
       .then(response => response.json())
       .then(data => {
           const table = $('#productsTable').DataTable({
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
           const ctx = document.getElementById('productsChart').getContext('2d');
           const productsChart = new Chart(ctx, {
-              type: 'bar',  // Change chart type as needed
+              type: 'bar',
               data: {
                   labels: data.map(item => item.name),
                   datasets: [{

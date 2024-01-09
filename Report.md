@@ -1,4 +1,7 @@
 # E-Commerce Analytics Webapp Project Report
+***
+Maxime Merlin
+***
 
 ## Objective
 The E-Commerce Analytics Webapp is designed to leverage MongoDB and Elasticsearch for efficient data storage, management, and advanced search capabilities in an e-commerce context.

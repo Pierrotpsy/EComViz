@@ -7,7 +7,6 @@ document.getElementById('searchButton').addEventListener('click', () => {
           resultsContainer.innerHTML = '';  // Clear previous results
           data.forEach(doc => {
               // Display each document as a block of text or a card
-              // Customize this part based on how you want to display the results
               const docDiv = document.createElement('div');
               docDiv.className = 'search-result';
               docDiv.textContent = JSON.stringify(doc, null, 2);
